@@ -11,11 +11,6 @@ robot Can Rev Interface
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-#figureId {
-  border: 5px solid #555;
-}
-</style>
 </head>
 <body>
 
