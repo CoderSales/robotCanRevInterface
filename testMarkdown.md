@@ -17,7 +17,7 @@
 <body>
 
 <h2>Forward and Reverse in Pulse Width Modulation</h2>
-<p>Figure 1 shows microsecond pulses needed for full forward and full reverse.  From this lower speeds can be extrapolated on a pro rata bassis.</p>
+<p style="color:blue;text-align:center;">Figure 1 shows microsecond pulses needed for full forward and full reverse.  From this lower speeds can be extrapolated on a pro rata bassis.</p>
 
 <figure id="figureId">
   <img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse" style="width:80%">
@@ -30,3 +30,5 @@
 References:
 
 [HTML id attribute | W3Schools](https://www.w3schools.com/html/html_id.asp)
+
+[W3Schools > How To Add CSS > Inline CSS(https://www.w3schools.com/css/css_howto.asp)
