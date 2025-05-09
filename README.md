@@ -4,7 +4,9 @@
 
 robot Can Rev Interface
 
-Ctrl + F --> [Latest]
+
+> [!IMPORTANT]
+> Ctrl + F --> [Latest]
 
 ## Content
 
@@ -152,7 +154,8 @@ ____
 
 **[Continued here --> A01UbuntuFoxyInstallOnJetsonSteps.md](/documentation/A01UbuntuFoxyInstallOnJetsonSteps.md)**
 
-[Latest]
+> [!IMPORTANT]
+> [Latest]
 
 ## References
 
