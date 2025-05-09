@@ -127,7 +127,7 @@ ____
 
 ##### Operating System
 
-[Ubuntu (Debian) | Debian packages for ROS 2 Foxy Fitzroy are currently available for Ubuntu Focal.](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
+[Ubuntu (Debian) | Debian packages for ROS 2 Foxy Fitzroy are currently available for Ubuntu Focal. | ROS 2 Foxy (Ubuntu Focal)](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
 
 ____
 
