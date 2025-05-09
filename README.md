@@ -8,6 +8,14 @@ robot Can Rev Interface
 
 ____
 
+> [!NOTE]
+> Note: System Requirements: Operating System: **Windows 10 (64-bit)** *or newer*; Processor: 64-bit | As of April 12, 2024 Windows 10 or later is required for the latest version of the REV Hardware Client. Please use 1.6.4 if you are on an older version of Windows.
+
+> [!WARNING]
+> Warning: **do not update the motor controller in REV Hardware Client**
+
+____
+
 ### Setup
 
 <p>Figure 1 shows setup with Windows 10 on Intel i7</p> 
@@ -23,6 +31,19 @@ Monitor plugged into Jetson AGX shows REV [Hardware Client](https://docs.revrobo
 
 ____
 
+Make sure to use REV Hardware Client to set the device ID.
+
+Set Id to 10 for motor driver 1
+
+Set Id to 11 for motor driver 2
+
+Set Id to 12 for motor driver 3
+
+Set Id to 13 for motor driver 4
+
+____
+
+____
 
 ### Pulse Width Modulation Range
 
