@@ -35,6 +35,9 @@ ____
 </body>
 </html>
 
+## References (content)
+
+[grayson-arendt/sparkcan | GitHub.com](https://github.com/grayson-arendt/sparkcan/tree/master)
 
 ## References (formatting)
 
