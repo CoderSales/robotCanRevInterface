@@ -1,5 +1,5 @@
 
-```md
+```markdown
 <!DOCTYPE html>
 <html>
 <head>
