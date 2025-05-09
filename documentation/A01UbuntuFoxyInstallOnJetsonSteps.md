@@ -19,3 +19,9 @@
 ```bash
 sudo apt update && sudo apt install locales
 ```
+
+____
+
+![error no internet](https://github.com/user-attachments/assets/2078bbfa-23e3-4acd-a83b-32f178e669b6)
+
+____
