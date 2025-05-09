@@ -37,13 +37,13 @@ ____
 
 Make sure to use REV Hardware Client to set the device ID.
 
-Set Id to 10 for motor driver 1
+Set Id to 10 for motor controller 1 - front left
 
-Set Id to 11 for motor driver 2
+Set Id to 11 for motor controller 2 - front right
 
-Set Id to 12 for motor driver 3
+Set Id to 12 for motor controller 3 - rear left
 
-Set Id to 13 for motor driver 4
+Set Id to 13 for motor controller 4 - rear right
 
 ____
 
