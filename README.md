@@ -24,15 +24,9 @@ Monitor plugged into Jetson AGX shows REV [Hardware Client](https://docs.revrobo
 ____
 
 
-### Pulse Width Modulation Range of Pulses to Motor Driver for forward and reverse
+### Pulse Width Modulation Range
 
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
 
-<h2>Forward and Reverse in Pulse Width Modulation</h2>
 <p>Figure 2 shows microsecond pulses needed for full forward and full reverse.  From this lower speeds can be extrapolated on a pro rata basis.</p>
 
 
@@ -41,8 +35,6 @@ ____
   <figcaption>Figure 2 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 
-</body>
-</html>
 
 ## References (content)
 
