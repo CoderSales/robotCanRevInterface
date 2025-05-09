@@ -29,7 +29,7 @@ img {
 <h2>Border Around Image</h2>
 <p>Use the border property to add a border to an image:</p>
 
-<img src="img_snow.jpg" alt="Snow" style="width:150px">
+<img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver" style="width:150px">
 
 </body>
 </html>
