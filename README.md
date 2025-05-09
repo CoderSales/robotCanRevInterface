@@ -113,6 +113,10 @@ ____
 
 [https://github.com/grayson-arendt/sparkcan/blob/master/examples/pid.cpp](https://github.com/grayson-arendt/sparkcan/blob/master/examples/pid.cpp)
 
+##### Operating System
+
+[Ubuntu (Debian)](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
+
 ____
 
 - [REV > REV Hardware Client > Getting Started > Installation](https://docs.revrobotics.com/rev-hardware-client/gs/install)
