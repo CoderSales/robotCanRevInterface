@@ -31,7 +31,7 @@ robot Can Rev Interface
 
 <kbd>
 <figure id="figureId">
-  <img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse" style="width:80%">
+  <img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse" style="width:100%">
   <figcaption>Figure 1 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 </kbd>
