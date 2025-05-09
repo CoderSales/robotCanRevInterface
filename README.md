@@ -13,7 +13,7 @@ robot Can Rev Interface
   <figcaption>Fig.1 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 
-### Template HTML CSS Markdown
+### HTML CSS Markdown
 
 <!DOCTYPE html>
 <html>
@@ -29,7 +29,7 @@ img {
 <h2>Border Around Image</h2>
 <p>Use the border property to add a border to an image:</p>
 
-<img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver" style="width:150px">
+<img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver" style="width: 20 rem">
 
 </body>
 </html>
