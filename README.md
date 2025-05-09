@@ -159,6 +159,10 @@ ____
 
 [CAN bus | Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)
 
+#### Stats Table
+
+[PWM Input Specifications](https://docs.revrobotics.com/brushless/spark-max/specs#pwm-input-specifications)
+
 ### References (formatting)
 
 [CSS in Markdown | StackOverflow](https://stackoverflow.com/questions/27174946/how-to-use-css-in-markdown)
