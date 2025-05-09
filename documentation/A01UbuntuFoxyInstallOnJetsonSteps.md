@@ -13,3 +13,9 @@
 ### Working through Page 1
 
 ![image](https://github.com/user-attachments/assets/107badbd-2d59-4548-bd18-6d2b83753273)
+
+#### Code
+
+```bash
+sudo apt update && sudo apt install locales
+```
