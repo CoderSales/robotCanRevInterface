@@ -6,7 +6,14 @@ robot Can Rev Interface
 
 ## Content
 
+____
+
 ![imageSetup](/20250508_183058.jpg)
+
+<p>Figure 1 shows setup with Windows 10 on Intel i7, [Jetson AGX Xavier Developer Kit](https://www.leadtek.com/eng/products/ai_hpc%2837%29/nvidia_jetson_xavier_developer_kit%2810807%29/detail), motor controller and motor.</p>
+
+
+____
 
 <!DOCTYPE html>
 <html>
@@ -15,12 +22,12 @@ robot Can Rev Interface
 <body>
 
 <h2>Forward and Reverse in Pulse Width Modulation</h2>
-<p>Figure 1 shows microsecond pulses needed for full forward and full reverse.  From this lower speeds can be extrapolated on a pro rata bassis.</p>
+<p>Figure 2 shows microsecond pulses needed for full forward and full reverse.  From this lower speeds can be extrapolated on a pro rata bassis.</p>
 
 
 <figure id="figureId">
   <img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse" style="width:100%">
-  <figcaption>Figure 1 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
+  <figcaption>Figure 2 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 
 </body>
