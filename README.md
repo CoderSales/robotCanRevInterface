@@ -14,7 +14,7 @@ ____
 
 [Jetson AGX Xavier Developer Kit](https://www.leadtek.com/eng/products/ai_hpc%2837%29/nvidia_jetson_xavier_developer_kit%2810807%29/detail), motor controller and motor.</p>
 
-Monitor plugged into Jetson AGX shows REV [Hardware Client Running](https://docs.revrobotics.com/rev-hardware-client/gs/install) running.
+Monitor plugged into Jetson AGX shows REV [Hardware Client](https://docs.revrobotics.com/rev-hardware-client/gs/install) running.
 
 ____
 
