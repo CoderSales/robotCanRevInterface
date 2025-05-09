@@ -141,6 +141,8 @@ ____
 
 [Brushless DC electric motor | Wikipedia](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor)
 
+[CAN bus | Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)
+
 ### References (formatting)
 
 [CSS in Markdown | StackOverflow](https://stackoverflow.com/questions/27174946/how-to-use-css-in-markdown)
