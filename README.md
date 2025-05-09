@@ -103,7 +103,7 @@ ____
 
 
 <figure>
-  <img src="/MAX_HERO-noflag__60247.webp" alt="Image of Motor Driver" style="width:70%">
+  <img src="/MAX_HERO-noflag__60247.webp" alt="Image of Motor Driver" style="width:30%">
   <figcaption>Figure 3 - Image of Motor Driver</figcaption>
 </figure>
 
