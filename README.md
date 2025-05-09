@@ -71,6 +71,8 @@ ____
 
 ### References (content)
 
+#### Software
+
 [grayson-arendt/sparkcan | GitHub.com](https://github.com/grayson-arendt/sparkcan/tree/master)
 
 ____
@@ -82,6 +84,10 @@ ____
 
 > [!WARNING]
 > Warning: **do not update the motor controller in REV Hardware Client**
+
+#### Hardware
+
+[SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
 
 ____
 
