@@ -105,7 +105,13 @@ ____
 
 #### Software
 
+##### GitHub Repositories
+
 [grayson-arendt/sparkcan | GitHub.com](https://github.com/grayson-arendt/sparkcan/tree/master)
+
+##### Code
+
+[https://github.com/grayson-arendt/sparkcan/blob/master/examples/pid.cpp](https://github.com/grayson-arendt/sparkcan/blob/master/examples/pid.cpp)
 
 ____
 
