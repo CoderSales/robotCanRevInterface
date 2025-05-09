@@ -73,6 +73,32 @@ ____
 
 [Home  / Shop All  / SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp)
 
+
+### SPARK MAX Motor Controller
+
+[Home  / Shop All  / SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp)
+
+
+
+
+
+[SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
+
+____
+
+### SPARK MAX Motor Controller
+
+<p>Figure 3 shows SPARK MAX Motor Controller.</p>
+
+<figure>
+  <img src="/MAX_HERO-noflag__60247.webp" alt="Image of Motor Driver" style="width:30%">
+  <figcaption>Figure 3 - Image of SPARK MAX Motor Controller</figcaption>
+</figure>
+
+____
+
+
+
 ## References
 
 ### References (content)
@@ -92,6 +118,15 @@ ____
 > Warning: **do not update the motor controller in REV Hardware Client**
 
 #### Hardware
+
+
+### SPARK MAX Motor Controller
+
+[Home  / Shop All  / SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp)
+
+
+
+
 
 [SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
 
