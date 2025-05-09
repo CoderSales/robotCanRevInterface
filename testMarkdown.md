@@ -1,3 +1,5 @@
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,9 +28,12 @@
 
 </body>
 </html>
+```
 
 References:
 
 [HTML id attribute | W3Schools](https://www.w3schools.com/html/html_id.asp)
 
 [W3Schools > How To Add CSS > Inline CSS](https://www.w3schools.com/css/css_howto.asp)
+
+[GitHub Flavored Markdown doesn't render CSS styles inside a HTML block #22728](https://github.com/orgs/community/discussions/22728)
