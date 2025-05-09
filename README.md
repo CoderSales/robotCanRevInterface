@@ -7,7 +7,7 @@ robotCanRevInterface
 
 <style>
 figure{
-  border: 5px solid #555;
+  border: 10px solid #555;
 }
 </style>
 
