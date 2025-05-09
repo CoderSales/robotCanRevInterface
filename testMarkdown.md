@@ -31,4 +31,4 @@ References:
 
 [HTML id attribute | W3Schools](https://www.w3schools.com/html/html_id.asp)
 
-[W3Schools > How To Add CSS > Inline CSS(https://www.w3schools.com/css/css_howto.asp)
+[W3Schools > How To Add CSS > Inline CSS](https://www.w3schools.com/css/css_howto.asp)
