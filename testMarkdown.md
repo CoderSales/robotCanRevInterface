@@ -52,8 +52,22 @@ ________
 
 ### Working styling
 
+<style>
+h1 {
+  border: 5px solid red;
+}
 
-[img {border-style: dotted;} <img src="https://cloud.githubusercontent.com/assets/170270/5219062/f22a978c-7685-11e4-8316-af25b6c89bc0.png" width="300" style="color:green">](http://sindresorhus.com/github-markdown-css)
+h2 {
+  border: 4px dotted blue;
+}
+
+div {
+  border: double;
+}
+</style>
+
+
+[<style> {border-style: dotted;}</style> <img src="https://cloud.githubusercontent.com/assets/170270/5219062/f22a978c-7685-11e4-8316-af25b6c89bc0.png" width="300" style="color:green">](http://sindresorhus.com/github-markdown-css)
 
 ________
 
