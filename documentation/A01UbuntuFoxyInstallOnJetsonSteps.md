@@ -30,5 +30,5 @@ connect Ethernet cable
 
 ![connect Ethernet cable](https://github.com/user-attachments/assets/caf71dba-235d-47c7-9b19-b351a8e90a06)
 
-Quer: Wifi issue?
+Query: Wifi issue?
 
