@@ -4,6 +4,13 @@
 <style>
 #figureId {
   border: 5px solid #555;
+
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+
+  
 }
 </style>
 </head>
@@ -19,3 +26,7 @@
 
 </body>
 </html>
+
+References:
+
+[HTML id attribute | W3Schools](https://www.w3schools.com/html/html_id.asp)
