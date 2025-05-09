@@ -93,7 +93,34 @@ ____
 
 #### Hardware
 
+
+____
+
+### Pulse Width Modulation Range
+
+
+<p>Figure 3 shows Motor Controller.</p>
+
+
+<figure>
+  <img src="/MAX_HERO-noflag__60247.webp" alt="Image of Motor Driver" style="width:70%">
+  <figcaption>Figure 3 - Image of Motor Driver</figcaption>
+</figure>
+
+
+
+
+![SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
+
+Reference [TODO] [Move]
+
 [SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
+
+
+
+
+
+
 
 ____
 
