@@ -1,5 +1,4 @@
 
-```markdown
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +27,10 @@
 
 </body>
 </html>
-```
+
+<div style="color:green">
+    Markdown inline css styles
+</div>
 
 References:
 
@@ -37,3 +39,5 @@ References:
 [W3Schools > How To Add CSS > Inline CSS](https://www.w3schools.com/css/css_howto.asp)
 
 [GitHub Flavored Markdown doesn't render CSS styles inside a HTML block #22728](https://github.com/orgs/community/discussions/22728)
+
+[Markdown - CSS > Markdown inline CSS styles](https://www.w3schools.io/file/markdown-css/)
