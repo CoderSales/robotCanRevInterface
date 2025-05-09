@@ -20,7 +20,7 @@ ____
 
 <p>Figure 1 shows setup with Windows 10 on Intel i7</p> 
 
-[Jetson AGX Xavier Developer Kit](https://www.leadtek.com/eng/products/ai_hpc%2837%29/nvidia_jetson_xavier_developer_kit%2810807%29/detail), motor controller and motor.</p>
+[Jetson AGX Xavier Developer Kit](https://www.leadtek.com/eng/products/ai_hpc%2837%29/nvidia_jetson_xavier_developer_kit%2810807%29/detail), motor controller and [Brushless DC electric motor (commutatorless) motor. (It is an improvement on the mechanical commutator (brushes) used in many conventional electric motors.)](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor)</p>
 
 Monitor plugged into Jetson AGX shows REV [Hardware Client](https://docs.revrobotics.com/rev-hardware-client/gs/install) running.
 
