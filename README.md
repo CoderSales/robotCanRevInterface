@@ -97,7 +97,7 @@ ____
 
 ____
 
-### Pulse Width Modulation Range
+### SPARK MAX Motor Controller
 
 <p>Figure 3 shows SPARK MAX Motor Controller.</p>
 
