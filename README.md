@@ -13,8 +13,32 @@ robot Can Rev Interface
   <figcaption>Fig.1 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 
+### Template HTML CSS Markdown
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  border: 5px solid #555;
+}
+</style>
+</head>
+<body>
+
+<h2>Border Around Image</h2>
+<p>Use the border property to add a border to an image:</p>
+
+<img src="img_snow.jpg" alt="Snow" style="width:150px">
+
+</body>
+</html>
+
+
 ## References (formatting)
 
 [CSS in Markdown | StackOverflow](https://stackoverflow.com/questions/27174946/how-to-use-css-in-markdown)
 
 [Image Border | w3schools](https://www.w3schools.com/howto/howto_css_border_image.asp)
+
+- [Practice | Image Border | w3schools](https://www.w3schools.com/howto/howto_css_border_image.asp)
