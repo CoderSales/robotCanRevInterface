@@ -98,6 +98,18 @@ ____
 ____
 
 
+### REV Motor
+
+<p>Figure 4 shows SPARK MAX Motor Controller.</p>
+
+<figure>
+  <img src="/REV-21-1650-NEO1.1-Hero-FINAL__64905.png" alt="Image of Motor" style="width:30%">
+  <figcaption>Figure 4 - Image of REV Motor</figcaption>
+</figure>
+
+____
+
+
 
 ## References
 
