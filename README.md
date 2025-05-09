@@ -10,16 +10,6 @@ robotCanRevInterface
   <figcaption>Fig.1 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 
-<!-- image border template: -->
-
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
-
 ## References (formatting)
 
 [CSS in Markdown | StackOverflow](https://stackoverflow.com/questions/27174946/how-to-use-css-in-markdown)
