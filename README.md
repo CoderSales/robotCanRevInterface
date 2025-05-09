@@ -31,6 +31,10 @@ Monitor plugged into Jetson AGX shows REV [Hardware Client](https://docs.revrobo
 
 ____
 
+Go to Basic tab.
+
+____
+
 Make sure to use REV Hardware Client to set the device ID.
 
 Set Id to 10 for motor driver 1
@@ -42,6 +46,13 @@ Set Id to 12 for motor driver 3
 Set Id to 13 for motor driver 4
 
 ____
+
+Save Configuration as new01
+
+____
+
+> [!NOTE]
+> Note: Click **Persist Configuration** (so that memory stores after Jetson power off.)
 
 ____
 
