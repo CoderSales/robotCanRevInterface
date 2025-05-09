@@ -67,6 +67,12 @@ ____
   <figcaption>Figure 2 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 
+## Hardware
+
+### Motor Controller
+
+[Home  / Shop All  / SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp)
+
 ## References
 
 ### References (content)
