@@ -29,12 +29,6 @@ robot Can Rev Interface
 <h2>Forward and Reverse in Pulse Width Modulation</h2>
 <p>Figure 1 shows microsecond pulses needed for full forward and full reverse.  From this lower speeds can be extrapolated on a pro rata bassis.</p>
 
-.markdown-source-view.mod-cm6 .internal-embed > img,
-.markdown-preview-view .internal-embed > img {
-    box-shadow: 0 28px 8px -26px rgba(0, 0, 0);
-    border:1px solid #ccc;
-    margin: 0.25rem 0.25rem 0.75rem 0.25rem;
-}
 
 <figure id="figureId">
   <img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse" style="width:100%">
