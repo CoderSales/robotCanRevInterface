@@ -59,3 +59,8 @@ References:
 [GitHub Flavored Markdown doesn't render CSS styles inside a HTML block #22728](https://github.com/orgs/community/discussions/22728)
 
 [Markdown - CSS > Markdown inline CSS styles](https://www.w3schools.io/file/markdown-css/)
+
+[github-markdown-css](https://github.com/sindresorhus/github-markdown-css/)
+
+[GitLab > Can I get the Markdown CSS files for render?](https://forum.gitlab.com/t/can-i-get-the-markdown-css-files-for-render/29239/2)
+
