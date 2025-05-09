@@ -26,12 +26,12 @@ img {
 </head>
 <body>
 
-<h2>Border Around Image</h2>
-<p>Use the border property to add a border to an image:</p>
+<h2>Forward and Reverse in Pulse Width Modulation</h2>
+<p>Figure 1 shows microsecond pulses needed for full forward and full reverse.  From this lower speeds can be extrapolated on a pro rata bassis.</p>
 
 <figure>
   <img src="/roboticsPMWForwardBackwardParameters.jpg" alt="Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse" style="width:80%">
-  <figcaption>Fig.1 - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
+  <figcaption>**Figure 1** - Image of Motor Driver showing microsecond Pulses for Full Forward and Full Reverse</figcaption>
 </figure>
 
 </body>
