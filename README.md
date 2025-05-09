@@ -135,6 +135,10 @@ ____
 
 [SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
 
+### SPARK Motor
+
+[REV Robotics Neo Brushless Motor](https://www.revrobotics.com/rev-21-1650/)
+
 ____
 
 ### References (Theory)
