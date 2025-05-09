@@ -8,6 +8,8 @@ robot Can Rev Interface
 
 ____
 
+### Setup
+
 <p>Figure 1 shows setup with Windows 10 on Intel i7</p> 
 
 [Jetson AGX Xavier Developer Kit](https://www.leadtek.com/eng/products/ai_hpc%2837%29/nvidia_jetson_xavier_developer_kit%2810807%29/detail), motor controller and motor.</p>
@@ -20,6 +22,9 @@ Monitor plugged into Jetson AGX shows REV [Hardware Client](https://docs.revrobo
 </figure>
 
 ____
+
+
+### Pulse Width Modulation Range of Pulses to Motor Driver for forward and reverse
 
 <!DOCTYPE html>
 <html>
