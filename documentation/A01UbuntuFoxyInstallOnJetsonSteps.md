@@ -25,3 +25,10 @@ ____
 ![error no internet](https://github.com/user-attachments/assets/2078bbfa-23e3-4acd-a83b-32f178e669b6)
 
 ____
+
+connect Ethernet cable
+
+![connect Ethernet cable](https://github.com/user-attachments/assets/caf71dba-235d-47c7-9b19-b351a8e90a06)
+
+Quer: Wifi issue?
+
