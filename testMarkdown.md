@@ -71,7 +71,7 @@ div {
 
 [{border-style: dotted;}<img src="https://cloud.githubusercontent.com/assets/170270/5219062/f22a978c-7685-11e4-8316-af25b6c89bc0.png" width="300" style="color:green">](http://sindresorhus.com/github-markdown-css)
 
-[div {border-style: dotted;} <div>Test</div>)
+[div {border-style: dotted;} <div>Test</div>](https://www.w3schools.com/cssref/tryit.php?filename=trycss_border)
 
 ________
 
