@@ -151,4 +151,14 @@ ____
 
 ____
 
+#### Output
 
+##### Send
+
+![image](https://github.com/user-attachments/assets/d06a288e-c5ad-407c-b6a6-10aa64229c17)
+
+##### Receive
+
+![image](https://github.com/user-attachments/assets/6e7b0ae3-3f32-4278-a5fb-4366c58405dd)
+
+____
