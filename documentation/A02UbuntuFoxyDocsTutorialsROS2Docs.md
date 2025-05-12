@@ -23,3 +23,15 @@ Link to: [Beginner CLI Tools](https://docs.ros.org/en/foxy/Tutorials/Beginner-CL
 ____
 
 ![image](https://github.com/user-attachments/assets/410dc684-004a-4ef8-890b-fe8fc81e098a)
+
+____
+
+Link 1:
+
+[![image](https://github.com/user-attachments/assets/d2cec73d-d6b2-42cc-b31b-5a22911d0712)](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
+
+____
+
+[![image](https://github.com/user-attachments/assets/8b536dca-b245-437d-8580-bc1153657b5e)](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
+
+____
