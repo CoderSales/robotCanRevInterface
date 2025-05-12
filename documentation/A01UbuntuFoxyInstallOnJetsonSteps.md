@@ -136,3 +136,7 @@ ____
 ![image](https://github.com/user-attachments/assets/cd13c678-166e-4b9a-b8f0-abf30fe1c193)
 
 ____
+
+> [!NOTE]
+> Note: **default shell for Ubuntu is bash (currently using) so no need to edit the command above** - ChatGPT
+
