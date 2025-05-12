@@ -106,4 +106,6 @@ LC_IDENTIFICATION="en_IE.UTF-8"
 LC_ALL=
 ```
 
+```bash
 sudo apt update && sudo apt install locales
+```
