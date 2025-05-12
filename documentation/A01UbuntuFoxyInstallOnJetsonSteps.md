@@ -180,3 +180,9 @@ information for reference:
 ![image](https://github.com/user-attachments/assets/250ca691-b7bd-4941-a430-c054b1da99b9)
 
 ____
+
+end of webpage:
+
+![image](https://github.com/user-attachments/assets/650c0e48-80ce-4632-9b37-9a5866406441)
+
+____
