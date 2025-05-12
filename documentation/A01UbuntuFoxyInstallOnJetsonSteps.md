@@ -111,3 +111,7 @@ LC_ALL=
 ```bash
 sudo apt update && sudo apt install locales
 ```
+
+#### Progress
+
+![image](https://github.com/user-attachments/assets/7493593d-8544-44c6-a9ec-1e5ae2b3dff7)
