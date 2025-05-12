@@ -80,6 +80,7 @@ locale  # check for UTF-8
 
 #### output
 
+```
 LANG=en_IE.UTF-8
 LANGUAGE=
 LC_CTYPE="en_IE.UTF-8"
@@ -95,5 +96,6 @@ LC_TELEPHONE="en_IE.UTF-8"
 LC_MEASUREMENT="en_IE.UTF-8"
 LC_IDENTIFICATION="en_IE.UTF-8"
 LC_ALL=
+```
 
 sudo apt update && sudo apt install locales
