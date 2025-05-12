@@ -91,3 +91,39 @@ angular:
   z: 0.1" 
 
 ```
+
+________
+
+### Residual commands and outputs from Terminal 1
+
+```bash
+cris2025@ubuntu:~$ sudo apt install ros-foxy-turtlesim
+
+
+cris2025@ubuntu:~$ ros2 pkg executables turtlesim
+turtlesim draw_square
+turtlesim mimic
+turtlesim turtle_teleop_key
+turtlesim turtlesim_node
+
+cris2025@ubuntu:~$ ros2 run turtlesim turtlesim_node
+[INFO] [1747061341.454290459] [turtlesim]: Starting turtlesim with node name /turtlesim
+[INFO] [1747061341.462711769] [turtlesim]: Spawning turtle [turtle1] at x=[5.544445], y=[5.544445], theta=[0.000000]
+[INFO] [1747061425.688302355] [turtlesim]: Rotation goal completed successfully
+[INFO] [1747061426.887864678] [turtlesim]: Rotation goal completed successfully
+[INFO] [1747061427.816000274] [turtlesim]: Rotation goal completed successfully
+[INFO] [1747061428.743390658] [turtlesim]: Rotation goal completed successfully
+[INFO] [1747061429.079759904] [turtlesim]: Rotation goal completed successfully
+[INFO] [1747061429.303309572] [turtlesim]: Rotation goal completed successfully
+[INFO] [1747061429.495511791] [turtlesim]: Rotation goal completed successfully
+[INFO] [1747061429.735956609] [turtlesim]: Rotation goal completed successfully
+
+cris2025@ubuntu:~$ ros2 run turtlesim turtlesim_node
+[INFO] [1747067970.282098591] [turtlesim]: Starting turtlesim with node name /turtlesim
+[INFO] [1747067970.294367034] [turtlesim]: Spawning turtle [turtle1] at x=[5.544445], y=[5.544445], theta=[0.000000]
+^C[INFO] [1747068373.203176921] [rclcpp]: signal_handler(signal_value=2)
+cris2025@ubuntu:~$ ^C
+cris2025@ubuntu:~$ ^C
+
+
+```
