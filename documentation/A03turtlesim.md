@@ -77,3 +77,17 @@ Use G|B|V|C|D|E|R|T keys to rotate to absolute orientations. 'F' to cancel a rot
 'Q' to quit.
 cris2025@ubuntu:~$ 
 ```
+
+### Terminal 3
+
+```bash
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "linear:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+angular:
+  x: 0.0
+  y: 0.0
+  z: 0.1" 
+
+```
