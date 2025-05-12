@@ -162,3 +162,9 @@ ____
 ![image](https://github.com/user-attachments/assets/6e7b0ae3-3f32-4278-a5fb-4366c58405dd)
 
 ____
+
+So, to confirm from the last 2 images it can be seen that:
+
+"both the C++ and Python APIs are working properly".
+
+____
