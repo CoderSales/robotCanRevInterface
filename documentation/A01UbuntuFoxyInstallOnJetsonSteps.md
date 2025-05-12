@@ -32,3 +32,68 @@ connect Ethernet cable
 
 Query: Wifi issue?
 
+____
+
+## 12May2025
+
+Debugging Wifi Issue:
+
+1. Firefox connects
+
+_____
+
+### Troubleshooting
+
+ping google.com
+
+ping: google.com: Temporary failure in name resolution
+
+wget google.com
+
+#### output
+
+connected.
+
+Saving to: ‘index.html’
+
+#### input
+
+ls
+
+rm index.html
+
+##### Implication
+
+Internet Connected
+
+#### update Ubuntu
+
+sudo apt update
+
+sudo apt upgrade
+
+### Ubuntu ROS Foxy Installation (main task)
+
+[Ubuntu ROS Foxy Docs > **Set locale**](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html#id2)
+
+locale  # check for UTF-8
+
+#### output
+
+LANG=en_IE.UTF-8
+LANGUAGE=
+LC_CTYPE="en_IE.UTF-8"
+LC_NUMERIC="en_IE.UTF-8"
+LC_TIME="en_IE.UTF-8"
+LC_COLLATE="en_IE.UTF-8"
+LC_MONETARY="en_IE.UTF-8"
+LC_MESSAGES="en_IE.UTF-8"
+LC_PAPER="en_IE.UTF-8"
+LC_NAME="en_IE.UTF-8"
+LC_ADDRESS="en_IE.UTF-8"
+LC_TELEPHONE="en_IE.UTF-8"
+LC_MEASUREMENT="en_IE.UTF-8"
+LC_IDENTIFICATION="en_IE.UTF-8"
+LC_ALL=
+
+sudo apt update && sudo apt install locales
