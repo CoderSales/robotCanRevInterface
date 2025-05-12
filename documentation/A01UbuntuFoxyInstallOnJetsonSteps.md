@@ -191,7 +191,7 @@ Next step:
 
 original docs: [![image](https://github.com/user-attachments/assets/5f48c5de-7792-4667-b661-bde23d49baa8)](https://docs.ros.org/en/foxy/Tutorials.html)
 
-docs logging progress here: []()
+docs logging progress here: [A02UbuntuFoxyDocsTutorialsROS2Docs.md](/documentation/A02UbuntuFoxyDocsTutorialsROS2Docs.md)
 
 ____
 
