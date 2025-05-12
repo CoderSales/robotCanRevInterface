@@ -169,14 +169,14 @@ So, to confirm from the last 2 images it can be seen that:
 
 ____
 
-Next steps not yet completed:
-
-![image](https://github.com/user-attachments/assets/3151328b-92c3-4734-bab1-48144864de30)
-
-____
-
 of these the most relevant next steps are:
 
 ![image](https://github.com/user-attachments/assets/00a2e4f5-0760-4230-b6e5-9e0f4f14e273)
+
+____
+
+information for reference:
+
+![image](https://github.com/user-attachments/assets/250ca691-b7bd-4941-a430-c054b1da99b9)
 
 ____
