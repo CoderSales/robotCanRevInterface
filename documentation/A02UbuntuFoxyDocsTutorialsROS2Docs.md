@@ -19,3 +19,7 @@ Start:
 ____
 
 Link to: [Beginner CLI Tools](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools.html) in original Docs.
+
+____
+
+![image](https://github.com/user-attachments/assets/410dc684-004a-4ef8-890b-fe8fc81e098a)
