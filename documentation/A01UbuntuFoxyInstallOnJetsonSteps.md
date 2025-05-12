@@ -142,6 +142,11 @@ ____
 
 ____
 
+> [!NOTE]
+> Note: **Open a second terminal so one sends and other listens for next part:** - ChatGPT
+
+____
+
 ![image](https://github.com/user-attachments/assets/b13202cc-4d49-4936-861a-c0d25497157a)
 
 ____
