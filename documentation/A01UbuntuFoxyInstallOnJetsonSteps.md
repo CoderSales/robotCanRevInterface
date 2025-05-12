@@ -138,12 +138,12 @@ ____
 ____
 
 > [!NOTE]
-> Note: **default shell for Ubuntu is bash (currently using) so no need to edit the command above** - ChatGPT
+> Note: (Re: the above step) **default shell for Ubuntu is bash (currently using) so no need to edit the command above** - ChatGPT
 
 ____
 
 > [!NOTE]
-> Note: **Open a second terminal so one sends and other listens for next part:** - ChatGPT
+> Note: (Re: the below step) **Open a second terminal so one sends and other listens for next part:** - ChatGPT
 
 ____
 
