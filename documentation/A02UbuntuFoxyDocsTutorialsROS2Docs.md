@@ -17,3 +17,5 @@ Start:
 [![image](https://github.com/user-attachments/assets/2cfcbe3a-2c64-49cd-9a3e-545fe4a87675)](https://docs.ros.org/en/foxy/Tutorials.html)
 
 ____
+
+Link to: [Beginner CLI Tools](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools.html) in original Docs.
