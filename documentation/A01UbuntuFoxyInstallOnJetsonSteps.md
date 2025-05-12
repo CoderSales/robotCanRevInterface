@@ -140,3 +140,10 @@ ____
 > [!NOTE]
 > Note: **default shell for Ubuntu is bash (currently using) so no need to edit the command above** - ChatGPT
 
+____
+
+![image](https://github.com/user-attachments/assets/b13202cc-4d49-4936-861a-c0d25497157a)
+
+____
+
+
