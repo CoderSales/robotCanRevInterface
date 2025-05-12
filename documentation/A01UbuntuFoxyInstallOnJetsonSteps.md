@@ -115,3 +115,16 @@ sudo apt update && sudo apt install locales
 #### Progress
 
 ![image](https://github.com/user-attachments/assets/de3281dd-9771-46e5-a9f8-ca5425414342)
+
+____
+
+![image](https://github.com/user-attachments/assets/b76a0ca8-5a87-42b6-bdb9-4c0a5b11d31d)
+
+____
+
+![image](https://github.com/user-attachments/assets/1ba5ae37-d2b0-4479-b062-e7b6bea4f54c)
+
+--> selected option comprehensive install
+
+> [!WARNING]
+> Warning: **do not install both options here pick one, either this full install (shown) or other base minimal installation not shown**
