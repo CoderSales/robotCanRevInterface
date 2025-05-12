@@ -168,3 +168,15 @@ So, to confirm from the last 2 images it can be seen that:
 "both the C++ and Python APIs are working properly".
 
 ____
+
+Next steps not yet completed:
+
+![image](https://github.com/user-attachments/assets/3151328b-92c3-4734-bab1-48144864de30)
+
+____
+
+of these the most relevant next steps are:
+
+![image](https://github.com/user-attachments/assets/00a2e4f5-0760-4230-b6e5-9e0f4f14e273)
+
+____
