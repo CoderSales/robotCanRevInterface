@@ -186,3 +186,9 @@ end of webpage:
 ![image](https://github.com/user-attachments/assets/650c0e48-80ce-4632-9b37-9a5866406441)
 
 ____
+
+Next step:
+
+![image](https://github.com/user-attachments/assets/5f48c5de-7792-4667-b661-bde23d49baa8)
+
+____
