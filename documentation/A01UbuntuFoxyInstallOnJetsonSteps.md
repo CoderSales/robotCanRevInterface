@@ -76,6 +76,12 @@ sudo apt upgrade
 
 [Ubuntu ROS Foxy Docs > **Set locale**](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html#id2)
 
+#### Working from this code block
+
+![image](https://github.com/user-attachments/assets/7db22ba8-baac-4078-ae91-006d43f00988)
+
+#### working through this code block line by line
+
 locale  # check for UTF-8
 
 #### output
