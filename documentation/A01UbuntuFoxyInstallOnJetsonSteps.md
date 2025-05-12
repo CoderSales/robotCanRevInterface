@@ -128,3 +128,6 @@ ____
 
 > [!WARNING]
 > Warning: **do not install both options here pick one, either this full install (shown) or other base minimal installation not shown**
+
+![image](https://github.com/user-attachments/assets/882c8d18-816e-4492-b4e6-8585f6c8d2aa)
+
