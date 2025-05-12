@@ -62,6 +62,8 @@ cris2025@ubuntu:~$ ros2 run turtlesim turtlesim_node
 
 ### Above command Produces the following in Terminal 2
 
+#### this allows for navigation of the onscreen turtle produced by running turtlesim
+
 ```bash
 cris2025@ubuntu:~$ ros2 run turtlesim turtlesim_node
 [INFO] [1747061373.834029396] [turtlesim]: Starting turtlesim with node name /turtlesim
