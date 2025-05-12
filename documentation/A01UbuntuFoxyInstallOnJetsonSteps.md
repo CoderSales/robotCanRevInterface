@@ -114,4 +114,4 @@ sudo apt update && sudo apt install locales
 
 #### Progress
 
-![image](https://github.com/user-attachments/assets/7493593d-8544-44c6-a9ec-1e5ae2b3dff7)
+![image](https://github.com/user-attachments/assets/de3281dd-9771-46e5-a9f8-ca5425414342)
