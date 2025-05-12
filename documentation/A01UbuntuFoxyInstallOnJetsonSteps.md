@@ -82,7 +82,9 @@ sudo apt upgrade
 
 #### working through this code block line by line
 
+```bash
 locale  # check for UTF-8
+```
 
 #### output
 
