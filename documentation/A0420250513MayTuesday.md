@@ -39,6 +39,11 @@ ____
 
 ![image](https://github.com/user-attachments/assets/7a7de4b0-3873-4d89-8c45-55bc216765ee)
 
+redo:
+
+![Screenshot 2025-05-13 234700ishV02](https://github.com/user-attachments/assets/ab18c666-082a-4d01-a53f-896bdbfd2883)
+
+
 Figure above shows Rev Motor Controller Firmware Gui
 
 ![Screenshot 2025-05-13 233200ishV02](https://github.com/user-attachments/assets/51a56bbd-b67b-4c66-a705-ca30cbefc1ca)
