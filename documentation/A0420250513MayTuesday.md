@@ -38,4 +38,4 @@ Click “Run Self-Test” or “Advanced → Run Diagnostics”
 Exact LED pattern during test
 ```
 
-- ChatGPT
+- Citation: ([ChatGPT](https://chatgpt.com/) 2025)
