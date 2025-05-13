@@ -17,7 +17,7 @@ cris2025
 
 ____
 
-```bash
+```text
 🧪 Run Full Test in REV Client:
 Open REV Client
 
