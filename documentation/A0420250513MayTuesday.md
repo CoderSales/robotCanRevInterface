@@ -25,6 +25,12 @@ https://www.realvnc.com/en/connect/download/viewer/?lai_vid=yAmeWPmJ5uDv&lai_sr=
 
 ____
 
+## Available Platforms
+
+![image](https://github.com/user-attachments/assets/cd1b7bf7-2037-4c35-9e4b-ac235134899d)
+
+____
+
 ```text
 🧪 Run Full Test in REV Client:
 Open REV Client
