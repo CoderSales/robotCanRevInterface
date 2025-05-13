@@ -33,7 +33,7 @@ ____
 
 ![image](https://github.com/user-attachments/assets/e3d26af0-570c-457d-afee-2a56ec83b953)
 
-Figure above shows delta eelectronica with 12 V supplied, power on, Voltage control knob on left, Amp control on right, both at right of lcd display screen. 
+Figure above shows delta electronica with 12 V supplied, power on, Voltage control knob on left, Amp control on right, both at right of lcd display screen. 
 ____
 
 ## Next steps [Plan]: Troubleshooting REV Client
