@@ -25,7 +25,7 @@ Select controller (even if in bootloader)
 
 Click “Run Self-Test” or “Advanced → Run Diagnostics”
 
-➡️ Let me know:
+➡️ [Note]:
 
 Exact LED pattern during test
 ```
