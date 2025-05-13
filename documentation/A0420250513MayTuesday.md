@@ -38,7 +38,7 @@ Figure above shows delta electronica with 12 V supplied, power on, Voltage contr
 ____
 
 
-![image](https://github.com/user-attachments/assets/47e8a169-fb00-47cc-ae5d-d54b9143b33f)
+![Screenshot 2025-05-13 233200ishV02](https://github.com/user-attachments/assets/51a56bbd-b67b-4c66-a705-ca30cbefc1ca)
 
 
 Figure above shows Rev Motor Controller Firmware Gui
