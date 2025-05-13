@@ -31,6 +31,10 @@ ____
 
 ____
 
+![image](https://github.com/user-attachments/assets/e3d26af0-570c-457d-afee-2a56ec83b953)
+
+____
+
 ## Next steps [Plan]: Troubleshooting REV Client
 
 ```text
