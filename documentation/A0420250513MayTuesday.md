@@ -21,7 +21,7 @@ ____
 https://www.realvnc.com/en/connect/download/viewer/?lai_vid=yAmeWPmJ5uDv&lai_sr=10-14&lai_sl=l&lai_p=1&lai_na=921120
 ```
 
-[![image](https://github.com/user-attachments/assets/75a8e168-3d93-4c79-82c5-6f24e3bc9d57)](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=yAmeWPmJ5uDv&lai_sr=10-14&lai_sl=l&lai_p=1&lai_na=921120)
+[![image](https://github.com/user-attachments/assets/a16247c1-75ca-4f2f-9fd6-fe207f1b9572)](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=yAmeWPmJ5uDv&lai_sr=10-14&lai_sl=l&lai_p=1&lai_na=921120)
 
 ____
 
