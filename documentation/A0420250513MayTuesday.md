@@ -31,7 +31,7 @@ ____
 
 ____
 
-## Next steps [Plan]:Troubleshooting REV Client
+## Next steps [Plan]: Troubleshooting REV Client
 
 ```text
 🧪 Run Full Test in REV Client:
