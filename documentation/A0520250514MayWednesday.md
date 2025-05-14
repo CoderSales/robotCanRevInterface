@@ -195,3 +195,12 @@ ____
 ![Screenshot 2025-05-14 150329 Reset](https://github.com/user-attachments/assets/96d15f38-50b4-4307-8bfe-2eef8d629fe3)
 
 Figure: Reset button highlighted
+
+____
+
+![image](https://github.com/user-attachments/assets/6885566e-80f1-4b00-9923-7f5c173fa5f6)
+
+Figure: Notice after Reset button pressed
+
+_____
+
