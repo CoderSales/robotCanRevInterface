@@ -38,8 +38,6 @@ ____
 
 ![image](https://github.com/user-attachments/assets/87c74451-210d-42bc-bd68-a6b387d3b2d4)
 
-____
-
 Figure: Update
 
 ____
