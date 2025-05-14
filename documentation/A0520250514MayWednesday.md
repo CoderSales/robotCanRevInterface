@@ -218,10 +218,6 @@ Power Supply on:
 
 ![image](https://github.com/user-attachments/assets/a9a85071-cef2-47d1-a2a4-b665522d619f)
 
-![image](https://github.com/user-attachments/assets/5b02c813-968d-4bba-ac11-4795e63da1b3)
-
-Figure: CV meaning search
-
 ____
 
 ![image](https://github.com/user-attachments/assets/6b11ca59-8b60-412c-b998-21a30542df5e)
@@ -242,6 +238,12 @@ ____
 ![clipboard-image-1747232657](https://github.com/user-attachments/assets/760a4ce3-b510-44d7-bc17-5e3da3238f75)
 
 Figure: Power Supply > Current Status (Power on)
+
+____
+
+![image](https://github.com/user-attachments/assets/5b02c813-968d-4bba-ac11-4795e63da1b3)
+
+Figure: CV meaning search
 
 ____
 
