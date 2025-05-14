@@ -40,3 +40,9 @@ ____
 Figure: motor working > reverse
 
 ____
+
+![clipboard-image-1747242863](https://github.com/user-attachments/assets/17e62d20-e108-40b4-bea1-cb6fc1c66ae1)
+
+Figure: motor 23 FR (Front right)
+
+____
