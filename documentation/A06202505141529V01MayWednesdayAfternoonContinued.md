@@ -18,7 +18,7 @@ ____
 
 ![clipboard-image-1747237822](https://github.com/user-attachments/assets/a4da9863-5402-4c8e-b02c-ecd4c24db59a)
 
-Figure:
+Figure: Rev Client Screenshot
 
 ____
 
