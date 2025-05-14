@@ -35,11 +35,11 @@ Figure: Update
 
 ![image](https://github.com/user-attachments/assets/f9eefbbb-f8f3-4869-962a-4f515d96da8b)
 
-Figure: 
+Figure: Delta Elektronika SM330-AR-22 Power Supply used to test motor and motor controller
 
 ![image](https://github.com/user-attachments/assets/987fa528-59d0-410d-b056-4cc3f77d1995)
 
-Figure: Delta Elektronika SM330-AR-22 Power Supply used to test motor and motor controller
+Figure: Photo of Wheel, Motor, (2x 4:1 Step up Planetary Gearboxes and 1x 3:1 step down Planetary Gearboxes per motor; 1 of 4 motor assemblies shown), Motor controller and Wiring
 
 ____
 
