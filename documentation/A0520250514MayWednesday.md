@@ -241,7 +241,7 @@ Figure: Power Supply > Current Status (Power on)
 
 ____
 
-![image](https://github.com/user-attachments/assets/5b02c813-968d-4bba-ac11-4795e63da1b3)
+[![image](https://github.com/user-attachments/assets/5b02c813-968d-4bba-ac11-4795e63da1b3)](https://www.google.com/search?q=cv+meaning+in+power+supply&oq=cv+meaning+in+power+supply&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyCggGEAAYgAQYogQyBwgHEAAY7wUyBwgIEAAY7wUyBwgJEAAY7wXSAQgzOTg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 Figure: CV meaning search
 
