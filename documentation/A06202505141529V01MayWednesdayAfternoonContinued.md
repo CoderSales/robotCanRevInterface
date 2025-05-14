@@ -4,10 +4,6 @@
 
 ____
 
-![image](https://github.com/CoderSales/robotCanRevInterface/blob/main/static/images/confirmUpdateNotice.png)
-
-![image](https://raw.githubusercontent.com/CoderSales/robotCanRevInterface/main/static/images/confirmUpdateNotice.png)
-
 ![image](/static/images/confirmUpdateNotice.png)
 
 Figure: 
