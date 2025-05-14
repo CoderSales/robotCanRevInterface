@@ -48,6 +48,11 @@ ____
 
 ____
 
+![image](https://github.com/user-attachments/assets/672d0b95-0445-48dc-a5f9-47aa5786cce0)
+
+Figure: 
+____
+
 ![image](https://github.com/user-attachments/assets/f9eefbbb-f8f3-4869-962a-4f515d96da8b)
 
 Figure: Delta Elektronika SM330-AR-22 Power Supply used to test motor and motor controller
