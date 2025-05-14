@@ -121,6 +121,12 @@ Firmware Issue
 
 ____
 
+![clipboard-image-1747226996 (1)](https://github.com/user-attachments/assets/5cd96514-0e30-480c-8895-48572bb91890)
+
+Figure: Image showing usb connected via black usb cable between Laptop (Standard USB) and Rev Robotics > Spark Max > Motor Controller (micro-usb)
+
+____
+
 ```text
 ✅ You’re on firmware 24.0.1
 ⚠️ It’s outdated — the tool recommends 25.0.4
