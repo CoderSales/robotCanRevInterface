@@ -60,3 +60,11 @@ Summary of Work today:
 1 of 4 motor controllers not working - CAN22 - Query if correct assignment of CAN22
 3 of 4 motor controllers working - CAN21 CAN23 CAN24
 ```
+
+## References
+
+([ChatGPT](https://chatgpt.com/) 2025)
+
+[![image](https://github.com/user-attachments/assets/edfb3553-97d8-478b-85e8-2250d39f1dd8)](https://docs.revrobotics.com/brushless/spark-max/gs/make-it-spin)
+
+- above image link as text link --> [Rev Robotics > REV Ion Brushless System > Make It Spin!](https://docs.revrobotics.com/brushless/spark-max/gs/make-it-spin)
