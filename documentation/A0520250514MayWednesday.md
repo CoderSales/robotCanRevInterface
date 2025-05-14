@@ -70,6 +70,12 @@ Figure: Wiring to Motor Controller
 
 ____
 
+![PiXEOdc8](https://github.com/user-attachments/assets/9c0d7cd2-6892-4032-b916-47e1e640363a)
+
+Figure: Wiring to Motor Controller improved
+
+____
+
 ##### [Issue] Actual Behavior
 
 Motor Controller Flashes Red and Blue
