@@ -182,3 +182,6 @@ Figure: Basic Tab
 
 ____
 
+Click `Clear Sticky Faults` User Interface Button
+
+____
