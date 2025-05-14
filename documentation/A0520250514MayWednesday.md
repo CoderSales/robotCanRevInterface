@@ -35,9 +35,19 @@ Figure: Update
 
 ![image](https://github.com/user-attachments/assets/f9eefbbb-f8f3-4869-962a-4f515d96da8b)
 
+Figure: 
+
 ![image](https://github.com/user-attachments/assets/987fa528-59d0-410d-b056-4cc3f77d1995)
 
+Figure: Delta Elektronika SM330-AR-22 Power Supply used to test motor and motor controller
 
+____
+
+![image](https://github.com/user-attachments/assets/523a7b3c-8194-4075-980f-548b2b8e4109)
+
+Figure: Wiring to Motor Controller
+
+____
 
 ##### [Issue] Actual Behavior
 
