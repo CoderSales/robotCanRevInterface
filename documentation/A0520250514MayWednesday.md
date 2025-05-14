@@ -212,4 +212,19 @@ ____
 
 ![image](https://github.com/user-attachments/assets/7545aa3c-3dbe-4178-b267-0d04892374ee)
 
+____
 
+Power Supply on:
+
+![image](https://github.com/user-attachments/assets/a9a85071-cef2-47d1-a2a4-b665522d619f)
+
+
+
+____
+
+![image](https://github.com/user-attachments/assets/6b11ca59-8b60-412c-b998-21a30542df5e)
+
+
+Figure: New Sticky Fault
+
+____
