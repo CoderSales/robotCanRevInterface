@@ -6,6 +6,6 @@ ____
 
 ![image](/static/images/confirmUpdateNotice.png)
 
-Figure: 
+Figure: Confirm Update configuration
 
 ____
