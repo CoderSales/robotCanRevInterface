@@ -116,3 +116,16 @@ Firmware Issue
 - Either need to upgrade
 
 - or downgrade firmware.
+
+##### Debugging
+
+```text
+✅ You’re on firmware 24.0.1
+⚠️ It’s outdated — the tool recommends 25.0.4
+
+... likely ...  — this is a firmware issue.
+```
+
+- ([ChatGPT](https://chatgpt.com/) 2025)
+
+
