@@ -156,4 +156,21 @@ Figure: Upgrading firmware step 3
 
 ____
 
+###### Next Steps
+
+```text
+✅ Firmware now confirmed at 25.0.4.
+
+➡️ Proceed with:
+
+Basic tab → click “Restore Factory Defaults”
+
+Then click “Persist Parameters”
+
+Then power cycle the SPARK MAX
+
+Then click “Clear Sticky Faults”
+```
+
+- ([ChatGPT](https://chatgpt.com/) 2025)
 
