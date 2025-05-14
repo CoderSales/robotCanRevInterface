@@ -191,3 +191,7 @@ ____
 Figure: Basic Tab after Clear Sticky Faults Button Clicked
 
 ____
+
+![Screenshot 2025-05-14 150329 Reset](https://github.com/user-attachments/assets/96d15f38-50b4-4307-8bfe-2eef8d629fe3)
+
+Figure: Reset button highlighted
