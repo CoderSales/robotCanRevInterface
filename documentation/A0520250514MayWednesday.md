@@ -90,10 +90,16 @@ ____
 
 ![clipboard-image-1747226458](https://github.com/user-attachments/assets/95799e81-49de-4a7d-beef-d43501986ae5)
 
-Figure: Blue light [Flash 1 of two every 2 seconds]
-
+Figure: Blue light [Flash 1 of 2 (Blue) every 2 seconds]
 
 ____
+
+![clipboard-image-1747226603](https://github.com/user-attachments/assets/9a40b1f5-8750-4c2c-aa52-7869406de4db)
+
+Figure: Red light [Flash 2 of 2 (Red) every 2 seconds]
+
+____
+
 
 ##### [Issue] Actual Behavior
 
