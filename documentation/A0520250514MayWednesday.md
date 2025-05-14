@@ -33,7 +33,7 @@ Figure: Update
 
 ###### Photos of Physical Setup
 
-![image](https://github.com/user-attachments/assets/c1f5d6a9-04a4-4007-b52a-86f6498cad1e)
+![image](https://github.com/user-attachments/assets/f9eefbbb-f8f3-4869-962a-4f515d96da8b)
 
 ![image](https://github.com/user-attachments/assets/987fa528-59d0-410d-b056-4cc3f77d1995)
 
