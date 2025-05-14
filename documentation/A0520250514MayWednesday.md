@@ -33,6 +33,9 @@ Figure: Update
 
 ###### Photos of Physical Setup
 
+![image](https://github.com/user-attachments/assets/c1f5d6a9-04a4-4007-b52a-86f6498cad1e)
+
+![Uploading image.png…]()
 
 
 ##### [Issue] Actual Behavior
