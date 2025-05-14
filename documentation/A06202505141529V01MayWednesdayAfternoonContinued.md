@@ -22,3 +22,21 @@ Figure:
 
 ____
 
+
+![image](https://github.com/user-attachments/assets/06673c0d-fb7a-4c01-bb54-b986b013269c)
+
+Figure: 
+
+____
+
+![clipboard-image-1747242578](https://github.com/user-attachments/assets/2885c8fe-d642-459f-b6aa-7b1cefa6f289)
+
+Figure: motor working > forward
+
+____
+
+![clipboard-image-1747242646](https://github.com/user-attachments/assets/c9e4d643-8166-4385-9a3f-13eb1e7b84a6)
+
+Figure: motor working > reverse
+
+____
