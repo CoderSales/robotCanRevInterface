@@ -235,3 +235,12 @@ ____
 
 ![image](https://github.com/user-attachments/assets/96639673-8b76-45e6-b945-6860d7d614d4)
 
+____
+
+![clipboard-image-1747232657](https://github.com/user-attachments/assets/760a4ce3-b510-44d7-bc17-5e3da3238f75)
+
+Figure: Power Supply > Current Status (Power on)
+
+____
+
+
