@@ -218,7 +218,9 @@ Power Supply on:
 
 ![image](https://github.com/user-attachments/assets/a9a85071-cef2-47d1-a2a4-b665522d619f)
 
+![image](https://github.com/user-attachments/assets/5b02c813-968d-4bba-ac11-4795e63da1b3)
 
+Figure: CV meaning search
 
 ____
 
@@ -254,3 +256,4 @@ ____
 Figure: Zoom in on Persist Parameters (Marked up)
 
 ____
+
