@@ -228,3 +228,8 @@ ____
 Figure: New Sticky Fault
 
 ____
+
+Sticky Fault Cleared
+
+____
+
