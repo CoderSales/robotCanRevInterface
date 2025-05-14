@@ -25,7 +25,7 @@ ____
 
 ![image](https://github.com/user-attachments/assets/06673c0d-fb7a-4c01-bb54-b986b013269c)
 
-Figure: 
+Figure: Rev Client Screenshot
 
 ____
 
