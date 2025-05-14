@@ -52,3 +52,11 @@ ____
 Figure: motor 23 FR (Front right) and motor FL (Front left)
 
 ____
+
+
+Summary of Work today:
+
+```text
+1 of 4 motor controllers not working - CAN22 - Query if correct assignment of CAN22
+3 of 4 motor controllers working - CAN21 CAN23 CAN24
+```
