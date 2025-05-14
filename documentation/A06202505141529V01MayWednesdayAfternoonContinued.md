@@ -77,12 +77,18 @@ Summary of Work today:
 
 ##### Lights 1
 
-standard-operation: [![image](https://github.com/user-attachments/assets/e92d4d45-da5d-48ae-bf26-934afee64d4a)](https://docs.revrobotics.com/brushless/spark-max/status-led#standard-operation)
+standard-operation: 
+
+[![image](https://github.com/user-attachments/assets/e92d4d45-da5d-48ae-bf26-934afee64d4a)](https://docs.revrobotics.com/brushless/spark-max/status-led#standard-operation)
 
 ##### Lights 2
 
-identification-updating-and-recovery: [![image](https://github.com/user-attachments/assets/0ea1eee2-d0b0-47ce-adf2-1eaa3e052833)](https://docs.revrobotics.com/brushless/spark-max/status-led#identification-updating-and-recovery)
+identification-updating-and-recovery: 
+
+[![image](https://github.com/user-attachments/assets/0ea1eee2-d0b0-47ce-adf2-1eaa3e052833)](https://docs.revrobotics.com/brushless/spark-max/status-led#identification-updating-and-recovery)
 
 ##### Lights 3
 
-fault-conditions: [![image](https://github.com/user-attachments/assets/e42bb999-ce24-44a6-b7eb-81b60800c726)](https://docs.revrobotics.com/brushless/spark-max/status-led#fault-conditions)
+fault-conditions: 
+
+[![image](https://github.com/user-attachments/assets/e42bb999-ce24-44a6-b7eb-81b60800c726)](https://docs.revrobotics.com/brushless/spark-max/status-led#fault-conditions)
