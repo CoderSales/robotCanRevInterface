@@ -119,6 +119,9 @@ Firmware Issue
 
 ##### Debugging
 
+![image](https://github.com/user-attachments/assets/436ae4d9-48e7-40ac-bc1c-beee95ac919b)
+
+
 ```text
 ✅ You’re on firmware 24.0.1
 ⚠️ It’s outdated — the tool recommends 25.0.4
