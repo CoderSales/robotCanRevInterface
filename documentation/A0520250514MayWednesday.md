@@ -8,11 +8,19 @@
 
 ##### Images
 
-###### Screenshots from Client
+###### Screenshots from Client (Per Tab)
 
 ![image](https://github.com/user-attachments/assets/2f11c9a0-7f64-4235-9c9a-f4fbf48700e8)
 
+Figure: Basic
+
 ![image](https://github.com/user-attachments/assets/3d2175ac-b203-4ad9-a1eb-bcf3116018d3)
+
+Figure: Advanced
+
+![image](https://github.com/user-attachments/assets/206d137d-ace5-4ce3-a961-74a17a7798f0)
+
+Figure: Run
 
 ###### Photos of Physical Setup
 
