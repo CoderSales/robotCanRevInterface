@@ -174,3 +174,11 @@ Then click “Clear Sticky Faults”
 
 - ([ChatGPT](https://chatgpt.com/) 2025)
 
+____
+
+![image](https://github.com/user-attachments/assets/8a338fa5-e42e-4eeb-a2c0-9f0d9b87f4b1)
+
+Figure: Basic Tab
+
+____
+
