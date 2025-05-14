@@ -117,7 +117,7 @@ Firmware Issue
 
 - or downgrade firmware.
 
-##### Debugging
+##### Debugging (2 to 3 pm)
 
 ____
 
