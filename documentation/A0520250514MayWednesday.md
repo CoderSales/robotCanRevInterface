@@ -10,36 +10,59 @@
 
 ###### Screenshots from Client (Per Tab)
 
+____
+
 ![image](https://github.com/user-attachments/assets/2f11c9a0-7f64-4235-9c9a-f4fbf48700e8)
 
 Figure: Basic
+
+____
 
 ![image](https://github.com/user-attachments/assets/3d2175ac-b203-4ad9-a1eb-bcf3116018d3)
 
 Figure: Advanced
 
+____
+
 ![image](https://github.com/user-attachments/assets/206d137d-ace5-4ce3-a961-74a17a7798f0)
 
 Figure: Run
+
+____
 
 ![image](https://github.com/user-attachments/assets/c4d16e68-f4d6-4f8d-82cd-0a072e9a975a)
 
 Figure: AbsoluteEncoder
 
+____
+
 ![image](https://github.com/user-attachments/assets/87c74451-210d-42bc-bd68-a6b387d3b2d4)
+
+____
 
 Figure: Update
 
+____
+
+____
 
 ###### Photos of Physical Setup
+
+____
 
 ![image](https://github.com/user-attachments/assets/f9eefbbb-f8f3-4869-962a-4f515d96da8b)
 
 Figure: Delta Elektronika SM330-AR-22 Power Supply used to test motor and motor controller
 
+____
+
 ![image](https://github.com/user-attachments/assets/987fa528-59d0-410d-b056-4cc3f77d1995)
 
 Figure: Photo of Wheel, Motor, (2x 4:1 Step up Planetary Gearboxes and 1x 3:1 step down Planetary Gearboxes per motor; 1 of 4 motor assemblies shown), Motor controller and Wiring
+
+____
+
+
 
 ____
 
