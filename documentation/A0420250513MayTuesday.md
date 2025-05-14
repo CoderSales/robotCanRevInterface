@@ -37,6 +37,11 @@ Figure above shows delta electronica with 12 V supplied, power on, Voltage contr
 
 ____
 
+![image](https://github.com/user-attachments/assets/4ec62601-f13e-4e5f-a9eb-9634cf9f4ef2)
+
+Figure above shows 
+____
+
 ![Screenshot 2025-05-13 234700ishV02](https://github.com/user-attachments/assets/ab18c666-082a-4d01-a53f-896bdbfd2883)
 
 
