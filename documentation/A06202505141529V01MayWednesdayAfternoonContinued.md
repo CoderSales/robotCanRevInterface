@@ -46,3 +46,9 @@ ____
 Figure: motor 23 FR (Front right)
 
 ____
+
+![clipboard-image-1747242987](https://github.com/user-attachments/assets/07f9015c-449d-4a3e-a7ac-d30c774ca980)
+
+Figure: motor 23 FR (Front right) and motor FL (Front left)
+
+____
