@@ -72,7 +72,14 @@ ____
 
 ![PiXEOdc8](https://github.com/user-attachments/assets/9c0d7cd2-6892-4032-b916-47e1e640363a)
 
-Figure: Wiring to Motor Controller improved
+Figure: Wiring to Motor Controller Improved
+
+
+____
+
+![clipboard-image-1747226044](https://github.com/user-attachments/assets/01d6ff33-ab86-4727-869d-2daf0448ec70)
+
+Figure: Wiring Improved showing screws to hold wiring
 
 ____
 
