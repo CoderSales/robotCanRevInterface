@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed2cd45e-0479-4179-9477-e68bd0710cd3)# 2025 05 14 May Wednesday
+# 2025 05 14 May Wednesday
 
 ## Content
 
