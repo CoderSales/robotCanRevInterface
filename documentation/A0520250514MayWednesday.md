@@ -22,6 +22,10 @@ Figure: Advanced
 
 Figure: Run
 
+![image](https://github.com/user-attachments/assets/c4d16e68-f4d6-4f8d-82cd-0a072e9a975a)
+
+Figure: AbsoluteEncoder
+
 ###### Photos of Physical Setup
 
 
