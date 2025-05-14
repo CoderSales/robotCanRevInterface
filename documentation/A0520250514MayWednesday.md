@@ -119,7 +119,6 @@ Firmware Issue
 
 ##### Debugging
 
-![image](https://github.com/user-attachments/assets/436ae4d9-48e7-40ac-bc1c-beee95ac919b)
 
 
 ```text
@@ -131,4 +130,6 @@ Firmware Issue
 
 - ([ChatGPT](https://chatgpt.com/) 2025)
 
+![image](https://github.com/user-attachments/assets/436ae4d9-48e7-40ac-bc1c-beee95ac919b)
 
+Figure: Upgrading firmware
