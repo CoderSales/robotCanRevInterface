@@ -119,7 +119,7 @@ Firmware Issue
 
 ##### Debugging
 
-
+____
 
 ```text
 ✅ You’re on firmware 24.0.1
@@ -130,6 +130,16 @@ Firmware Issue
 
 - ([ChatGPT](https://chatgpt.com/) 2025)
 
+____
+
 ![image](https://github.com/user-attachments/assets/436ae4d9-48e7-40ac-bc1c-beee95ac919b)
 
 Figure: Upgrading firmware
+
+____
+
+![image](https://github.com/user-attachments/assets/b7da0c68-0e30-4adc-87a7-8375c41717f7)
+
+Figure: Upgrading firmware step 2
+
+____
