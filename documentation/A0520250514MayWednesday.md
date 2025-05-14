@@ -243,4 +243,14 @@ Figure: Power Supply > Current Status (Power on)
 
 ____
 
+![image](https://github.com/user-attachments/assets/364efee6-95e2-4836-aecf-5e039e7baa0d)
 
+Figure: Zoom in on Persist Parameters
+
+____
+
+![Screenshot 2025-05-14 152732PresistParameters](https://github.com/user-attachments/assets/7ab7fe58-3e04-42f5-85bb-62c76cdbbd1f)
+
+Figure: Zoom in on Persist Parameters (Marked up)
+
+____
