@@ -121,7 +121,7 @@ Firmware Issue
 
 ____
 
-![clipboard-image-1747226996 (1)](https://github.com/user-attachments/assets/5cd96514-0e30-480c-8895-48572bb91890)
+![clipboard-image-1747230823](https://github.com/user-attachments/assets/bfc018a4-264d-4c21-82bf-e3eaf80cd083)
 
 Figure: Image showing usb connected via black usb cable between Laptop (Standard USB) and Rev Robotics > Spark Max > Motor Controller (micro-usb)
 
