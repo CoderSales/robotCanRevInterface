@@ -143,3 +143,11 @@ ____
 Figure: Upgrading firmware step 2
 
 ____
+
+![image](https://github.com/user-attachments/assets/58f61738-2c89-46d6-bf5b-f9d7fc23b886)
+
+Figure: Upgrading firmware step 3
+
+____
+
+
