@@ -204,3 +204,6 @@ Figure: Notice after Reset button pressed
 
 _____
 
+![image](https://github.com/user-attachments/assets/6b2d4088-70cf-4759-919c-b26a6ed266fc)
+
+____
