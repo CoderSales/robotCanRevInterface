@@ -185,3 +185,9 @@ ____
 Click `Clear Sticky Faults` User Interface Button
 
 ____
+
+![image](https://github.com/user-attachments/assets/5e3a2d1a-a2e6-45e7-8686-f1b802da5cd0)
+
+Figure: Basic Tab after Clear Sticky Faults Button Clicked
+
+____
