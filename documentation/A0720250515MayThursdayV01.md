@@ -88,3 +88,10 @@ Figure:
 
 ____
 
+memory aide:
+
+yellow =  hi (the sun is high in the sky)
+
+green = low = (the grass is low on the ground)
+
+____
