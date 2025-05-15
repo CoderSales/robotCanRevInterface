@@ -24,7 +24,10 @@ Running through
 
 ![image](https://github.com/user-attachments/assets/b7445b84-7232-4425-b019-64c4d7a5e7d0)
 
+____
+
 ![clipboard-image-1747321171](https://github.com/user-attachments/assets/6413122d-b362-444d-9929-f79cc27cdd63)
 
-Ohmeter (Multimeter) reads 119.5 Ohms, expected 120 Ohms
+Figure: Ohmeter (Multimeter) reads 119.5 Ohms, expected 120 Ohms
 
+____
