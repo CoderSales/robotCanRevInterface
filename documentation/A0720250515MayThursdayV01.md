@@ -26,5 +26,5 @@ Running through
 
 ![clipboard-image-1747321171](https://github.com/user-attachments/assets/6413122d-b362-444d-9929-f79cc27cdd63)
 
-Ohmeter (Multimeter) reads 11.95, expected 12 
+Ohmeter (Multimeter) reads 11.95 Ohms, expected 12 Ohms
 
