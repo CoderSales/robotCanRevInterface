@@ -2,6 +2,12 @@
 
 ## Content
 
+### Testing Decision Tree
+
+![image](https://github.com/user-attachments/assets/4e40e1fd-96e1-4597-a96e-fb003b07b88c)
+
+Figure: Testing Decision Tree
+
 ### Rev Robotics Client
 
 #### [Bug Report]
