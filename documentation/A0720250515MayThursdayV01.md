@@ -75,3 +75,9 @@ Need another 120 Ohm Resistor
 - paraphrased from (ChatGPT 2025)
 
 ____
+
+____
+
+![image](https://github.com/user-attachments/assets/354b3adb-41df-4d47-b93b-008f631e97d0)
+
+
