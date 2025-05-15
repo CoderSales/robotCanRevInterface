@@ -34,9 +34,11 @@ ____
 
 ![clipboard-image-1747321725](https://github.com/user-attachments/assets/741b96a5-1752-4aa4-aa0b-48e563c3a154)
 
+Figure: Setup shows > Robot (Powered by Power Supply)
+
 ____
 
-Bug Report
+### Bug Report
 
 Issue:
 
