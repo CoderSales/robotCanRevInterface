@@ -36,3 +36,12 @@ done to this point
 
 ____
 
+Todo:
+
+```bash
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+```
+
+____
+
