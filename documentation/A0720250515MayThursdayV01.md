@@ -31,3 +31,5 @@ ____
 Figure: Ohmeter (Multimeter) reads 119.5 Ohms, expected 120 Ohms
 
 ____
+
+![clipboard-image-1747321725](https://github.com/user-attachments/assets/741b96a5-1752-4aa4-aa0b-48e563c3a154)
