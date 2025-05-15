@@ -54,6 +54,12 @@ to USB-CAN Analyzer (120 Ohm DFLT)
 
 ____
 
+![clipboard-image-1747322133](https://github.com/user-attachments/assets/0867edef-166a-4b03-98b8-d28aea8311f3)
+
+Figure: USB-CAN Analyzer (120 Ohm DFLT)
+
+____
+
 [![image](https://github.com/user-attachments/assets/2073d282-b208-414b-b053-0d70fdf212db)](https://www.utmel.com/tools/band-resistor-color-code-calculator?id=20)
 
 Figure: 120 Ohms Color Band
