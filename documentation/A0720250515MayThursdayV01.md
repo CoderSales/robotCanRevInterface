@@ -14,5 +14,10 @@ for on jetson control
 
 cris2025
 
+Running through
+
+2nd company's tutorial
+
 ![image](https://github.com/user-attachments/assets/a9135338-d465-4eb2-a48a-7a9ab3ce9dfc)
 
+![image](https://github.com/user-attachments/assets/47729e66-9019-4b74-822a-543b8ce85ec0)
