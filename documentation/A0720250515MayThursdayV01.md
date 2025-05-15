@@ -67,3 +67,11 @@ ____
 Figure: 120 Ohms Color Band
 
 ____
+
+```text
+Need another 120 Ohm Resistor
+```
+
+- paraphrased from (ChatGPT 2025)
+
+____
