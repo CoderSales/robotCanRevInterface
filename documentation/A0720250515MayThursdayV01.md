@@ -33,3 +33,29 @@ Figure: Ohmeter (Multimeter) reads 119.5 Ohms, expected 120 Ohms
 ____
 
 ![clipboard-image-1747321725](https://github.com/user-attachments/assets/741b96a5-1752-4aa4-aa0b-48e563c3a154)
+
+____
+
+Bug Report
+
+Issue:
+
+Cannot control robot over CAN network
+
+Setup:
+
+Linux PC 
+
+over REAL VNC Viewer
+
+to Jetson AGX Xavier Developer Kit
+
+to USB-CAN Analyzer (120 Ohm DFLT)
+
+____
+
+![image](https://github.com/user-attachments/assets/2073d282-b208-414b-b053-0d70fdf212db)
+
+Figure: 120 Ohms Color Band
+
+____
