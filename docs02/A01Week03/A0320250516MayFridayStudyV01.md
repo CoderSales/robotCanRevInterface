@@ -1,4 +1,4 @@
-# 2025 05 16 May Friday V01
+# 2025 05 16 May Friday Study V01
 
 ## Description
 
