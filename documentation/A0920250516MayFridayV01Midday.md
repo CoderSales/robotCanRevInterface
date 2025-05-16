@@ -341,3 +341,27 @@ output
 
 ____
 
+Issue
+
+turtlepose missing
+
+____
+
+input
+
+```bash
+ ros2 topic list
+```
+
+output
+
+```bash
+/parameter_events
+/rosout
+/turtle1/cmd_vel
+/turtle1/color_sensor
+/turtle1/pose
+```
+
+____
+
