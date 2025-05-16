@@ -126,4 +126,54 @@ sudo apt install curl gnupg lsb-release -y
 ```
 
 - (ChatGPT 2025) [20250515]
-- 
+
+_____
+
+prompt:
+
+```text
+need to install humble
+.....
+yes
+```
+
+
+ChatGPT said:
+
+```text
+Run this to install ROS 2 Humble on Ubuntu 22.04 (WSL2):
+```
+
+```bash
+sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
+```
+
+```bash
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
+```
+
+```bash
+sudo apt update
+sudo apt install ros-humble-desktop -y
+```
+
+```text
+Then source it:
+```
+
+```bash
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+```
+
+```text
+Confirm with:
+```
+
+```bash
+ros2 --version
+```
+
+- (ChatGPT 2025) [2025 05 15]
+
+
