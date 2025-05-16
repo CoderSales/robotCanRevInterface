@@ -40,10 +40,59 @@ Ros 2 Humble
 
 ____
 
+#### Bug Report [Resolved]
 
+##### Issue
+
+```bash
+ ros2 --version
+usage: ros2 [-h] [--use-python-default-buffering]
+            Call `ros2 <command> -h` for more detailed usage. ...
+ros2: error: unrecognized arguments: --version
+```
+
+##### Steps to Fix
 
 ![image](https://github.com/user-attachments/assets/1828f97a-371b-4e97-86c6-f3ad46b7e4c3)
 
 - (ChatGPT 2025)
+
+##### Fix
+
+```bash
+ros2 --help
+usage: ros2 [-h] [--use-python-default-buffering]
+            Call `ros2 <command> -h` for more detailed usage. ...
+
+ros2 is an extensible command-line tool for ROS 2.
+
+options:
+  -h, --help            show this help message and exit
+  --use-python-default-buffering
+                        Do not force line buffering in stdout and instead use the python
+                        default buffering, which might be affected by PYTHONUNBUFFERED/-u
+                        and depends on whatever stdout is interactive or not
+
+Commands:
+  action     Various action related sub-commands
+  bag        Various rosbag related sub-commands
+  component  Various component related sub-commands
+  daemon     Various daemon related sub-commands
+  doctor     Check ROS setup and other potential issues
+  interface  Show information about ROS interfaces
+  launch     Run a launch file
+  lifecycle  Various lifecycle related sub-commands
+  multicast  Various multicast related sub-commands
+  node       Various node related sub-commands
+  param      Various param related sub-commands
+  pkg        Various package related sub-commands
+  run        Run a package specific executable
+  security   Various security related sub-commands
+  service    Various service related sub-commands
+  topic      Various topic related sub-commands
+  wtf        Use `wtf` as alias to `doctor`
+
+  Call `ros2 <command> -h` for more detailed usage.
+```
 
 ____
