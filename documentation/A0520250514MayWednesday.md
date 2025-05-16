@@ -228,6 +228,21 @@ ____
 
 ____
 
+> [!WARNING]
+> Warning: High Energy Electrical Device, exercise precautions.
+
+<figure id="figureId">
+  <img src="https://github.com/user-attachments/assets/d765c476-0dac-4566-a9de-6e58189a7bdd" alt="Dangerous High Power Electrical Energy Hazard" style="width:50%">
+  <figcaption>Figure - Dangerous High Power Electrical Energy Hazard</figcaption>
+</figure>
+
+> [!CAUTION]
+> Caution: High Risk Electrical Energy Hazard
+
+
+____
+
+
 Power Supply on:
 
 ![image](https://github.com/user-attachments/assets/a9a85071-cef2-47d1-a2a4-b665522d619f)
