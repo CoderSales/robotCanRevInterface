@@ -278,4 +278,8 @@ Docs link: [https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introduc
 sudo apt install ros-humble-turtlesim
 ```
 
+```bash
+sudo apt install ros-humble-turtlesim -y
+```
+
 ____
