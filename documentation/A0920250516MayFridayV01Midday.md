@@ -481,3 +481,8 @@ sudo apt update
 
 ____
 
+```bash
+sudo apt install '~nros-humble-rqt*'
+```
+
+____
