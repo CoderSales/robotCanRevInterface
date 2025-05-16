@@ -117,6 +117,10 @@ rqt
 
 Use this for /set_pen if CLI fails.
 
+#### Output
+
+![image](https://github.com/user-attachments/assets/0a86601c-6b35-40b4-b8bd-3a54e070f612)
+
 ____
 
 
