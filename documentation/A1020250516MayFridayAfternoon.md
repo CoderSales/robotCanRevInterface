@@ -55,3 +55,8 @@ ros2 service call /kill turtlesim/srv/Kill "{name: 'turtle2'}"
 
 ____
 
+```bash
+ros2 service call /reset std_srvs/srv/Empty "{}"
+```
+
+____
