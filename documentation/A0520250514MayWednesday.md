@@ -62,7 +62,7 @@ ____
 > [!WARNING]
 > Warning: High Energy Electrical Device, exercise precautions.
 
-![Dangerous High Power Electrical Energy Hazard](https://github.com/user-attachments/assets/c7f32d7f-d264-4bd8-93c7-992e3f37ae76)
+![Dangerous High Power Electrical Energy Hazard](https://github.com/user-attachments/assets/d765c476-0dac-4566-a9de-6e58189a7bdd)
 
 
 ![image](https://github.com/user-attachments/assets/f9eefbbb-f8f3-4869-962a-4f515d96da8b)
