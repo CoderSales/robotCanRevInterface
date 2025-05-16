@@ -324,3 +324,20 @@ Output
 ```
 
 ____
+
+input
+
+```bash
+ros2 topic list
+```
+
+output
+
+```bash
+/parameter_events
+/rosout
+/turtle1/cmd_vel
+```
+
+____
+
