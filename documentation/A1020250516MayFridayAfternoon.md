@@ -66,3 +66,10 @@ ros2 service call /spawn turtlesim/srv/Spawn "{x: 3.0, y: 3.0, theta: 0.0, name:
 ```
 
 _____
+
+```bash
+ros2 service call /turtle3/set_pen turtlesim/srv/SetPen "{r: 255, g: 0, b: 0, width: 5, off: 0}"
+```
+
+____
+
