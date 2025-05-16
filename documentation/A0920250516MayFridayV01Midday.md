@@ -475,6 +475,8 @@ x: 11.088889122009277 y: 8.032135963439941 theta: 0.5328146815299988 linear_velo
 
 ____
 
+Install rqt and its plugins
+
 ```bash
 sudo apt update
 ```
@@ -483,6 +485,14 @@ ____
 
 ```bash
 sudo apt install '~nros-humble-rqt*'
+```
+
+____
+
+run rqt
+
+```bash
+rqt
 ```
 
 ____
