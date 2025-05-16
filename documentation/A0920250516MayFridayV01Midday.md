@@ -250,3 +250,10 @@ This command sets up your environment to use ROS 2.
 
 ____
 
+2. Verify the setup by running:
+
+```bash
+ros2 --help
+```
+
+_____
