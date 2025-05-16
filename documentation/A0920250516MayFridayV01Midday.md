@@ -458,3 +458,19 @@ output
 ```
 
 _____
+
+Worked with ChatGPT to make \r overwrite and minor step to update in real time
+
+input
+
+```bash
+ros2 topic echo /turtle1/pose | stdbuf -o0 awk '/x:|y:|theta:/ { printf "%s ", $0 } /angular_velocity:/ { printf "\r" }'
+```
+
+output
+
+```bash
+x: 11.088889122009277 y: 8.032135963439941 theta: 0.5328146815299988 linear_velocity: 0.0 angular_velocity: 0.0
+```
+
+____
