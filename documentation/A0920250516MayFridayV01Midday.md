@@ -32,3 +32,11 @@ Google Search: ros humble
 
 ____
 
+Continue with
+
+Ubuntu Install
+
+Ros 2 Humble
+
+____
+
