@@ -454,7 +454,7 @@ ros2 action list
 output
 
 ```bash
-
+/turtle1/rotate_absolute
 ```
 
 _____
