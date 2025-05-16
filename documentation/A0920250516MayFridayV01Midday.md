@@ -496,3 +496,7 @@ rqt
 ```
 
 ____
+
+Plugins > Services > Service Caller from the menu bar at the top.
+
+____
