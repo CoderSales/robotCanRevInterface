@@ -48,3 +48,10 @@ ros2 service call /turtle2/teleport_absolute turtlesim/srv/TeleportAbsolute "{x:
 ```
 
 ____
+
+```bash
+ros2 service call /kill turtlesim/srv/Kill "{name: 'turtle2'}"
+```
+
+____
+
