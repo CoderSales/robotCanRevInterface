@@ -234,4 +234,19 @@ ____
 
 ____
 
+🔧 **Step 1: Configure Your ROS 2 Environment**
+
+**Goal:** Ensure your environment is set up correctly to use ROS 2 commands.
+
+**Instructions:**
+
+1. Source the ROS 2 setup script in your terminal:
+
+```bash
+source /opt/ros/humble/setup.bash
+```
+
+This command sets up your environment to use ROS 2.
+
+____
 
