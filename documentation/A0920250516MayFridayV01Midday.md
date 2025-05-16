@@ -24,7 +24,9 @@ ____
 
 ### Ros 2 Humble > simulator tutorial
 
-Google Search: ros humble [![image](https://github.com/user-attachments/assets/33daed7e-a6e9-4e35-aeb7-a6dd4385d383)](https://www.google.com/search?q=ros+humble&oq=ros+humble&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI4ODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+Google Search: ros humble 
+
+[![image](https://github.com/user-attachments/assets/33daed7e-a6e9-4e35-aeb7-a6dd4385d383)](https://www.google.com/search?q=ros+humble&oq=ros+humble&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI4ODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
 [![image](https://github.com/user-attachments/assets/d44be7c0-20c1-4f2b-b8e5-8a7fdd160c5c)](https://docs.ros.org/en/humble/index.html)
 
