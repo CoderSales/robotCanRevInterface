@@ -268,3 +268,14 @@ This ensures that your environment is configured correctly every time you open a
 
 ____
 
+##### turtlesim
+
+✅ Start: Using turtlesim, ros2, and rqt
+
+Docs link: [https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
+
+```bash
+sudo apt install ros-humble-turtlesim
+```
+
+____
