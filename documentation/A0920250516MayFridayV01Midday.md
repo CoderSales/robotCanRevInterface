@@ -283,3 +283,21 @@ sudo apt install ros-humble-turtlesim -y
 ```
 
 ____
+
+```bash
+ros2 run turtlesim turtlesim_node
+```
+
+
+Open another terminal and run:
+
+```bash
+ros2 run turtlesim turtle_teleop_key
+```
+
+_____
+
+![image](https://github.com/user-attachments/assets/a7793252-be6b-42d8-9f97-c968e374d6f9)
+
+_____
+
