@@ -33,3 +33,12 @@ x: 2.5362107862747507e-06 y: 6.003185272216797 theta: 3.140000104904175 linear_v
 
 ____
 
+____
+
+🔁 Next Step: Publish a velocity message to move turtle3
+
+____
+
+## References
+
+(ChatGPT 2025)
