@@ -80,6 +80,49 @@ ros2 service call /reset std_srvs/srv/Empty "{}"
 
 ____
 
+### Summary
+
+🧵 Here's your ideal terminal setup (4 total):
+
+1️⃣ TurtleSim GUI
+
+```bash
+ros2 run turtlesim turtlesim_node
+```
+
+Keeps the window open.
+
+2️⃣ Command Publisher
+```bash
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"
+```
+
+Can stop with Ctrl+C.
+
+3️⃣ Service Commands
+
+Use this one-off for reset, teleport, pen color, etc.
+
+```bash
+ros2 service call /reset std_srvs/srv/Empty "{}"
+ros2 service call /turtle1/teleport_absolute turtlesim/srv/TeleportAbsolute "{x: 5.5, y: 5.5, theta: 0.0}"
+ros2 service call /clear std_srvs/srv/Empty "{}"
+```
+
+4️⃣ (Optional) rqt GUI
+
+```bash
+rqt
+```
+
+Use this for /set_pen if CLI fails.
+
+____
+
+
+
+____
+
 ## References
 
 (ChatGPT 2025)
