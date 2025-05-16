@@ -31,6 +31,32 @@ ____
 
 ____
 
+## Warning
+
+____
+
+> [!WARNING]
+> Warning: High Energy Electrical Device, exercise precautions.
+
+<figure id="figureId">
+  <img src="https://github.com/user-attachments/assets/d765c476-0dac-4566-a9de-6e58189a7bdd" alt="Dangerous High Power Electrical Energy Hazard" style="width:100%">
+  <br>
+  <figcaption>Figure - Dangerous High Power Electrical Energy Hazard</figcaption>
+</figure>
+
+Turn off the Delta Electroinka SM330-AR-22 Power Supply before disconnecting the wires.
+
+- Power button is bottom of the 3 buttons on the right of the screen of the Delta Electronika SM330-AR-22 Power Supply
+
+- Power Switch Is At Left Hand Side of Delta Electronika as you face it, this must be turned to horizontal position, pointing at 0 before it is safe to idsconnect wires.
+
+- For added safety could disconnect Delta Electronika Power Supply from mains A/C Electrical Supply.
+
+> [!CAUTION]
+> Caution: High Risk Electrical Energy Hazard
+
+____
+
 ![image](https://github.com/user-attachments/assets/e3d26af0-570c-457d-afee-2a56ec83b953)
 
 Figure above shows delta electronica with 12 V supplied, power on, Voltage control knob on left, Amp control on right, both at right of lcd display screen. 
