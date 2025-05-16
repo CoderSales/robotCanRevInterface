@@ -1,5 +1,26 @@
 # robotCanRevInterface
 
+## Warning
+
+____
+
+> [!WARNING]
+> Warning: High Energy Electrical Device, exercise precautions.
+
+<figure id="figureId">
+  <img src="https://github.com/user-attachments/assets/d765c476-0dac-4566-a9de-6e58189a7bdd" alt="Dangerous High Power Electrical Energy Hazard" style="width:50%">
+  <br>
+  <figcaption>Figure - Dangerous High Power Electrical Energy Hazard</figcaption>
+</figure>
+
+> [!CAUTION]
+> Caution: High Risk Electrical Energy Hazard
+
+
+____
+
+
+
 ## Description
 
 robot Can Rev Interface
