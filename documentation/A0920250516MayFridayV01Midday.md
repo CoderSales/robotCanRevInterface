@@ -184,3 +184,13 @@ ____
 - (ChatGPT 2025) [2025 05 16]
 
 ____
+
+#### ChatGPT ROS2 Steps
+
+```bash
+ros2 run demo_nodes_cpp talker
+```
+
+____
+
+
