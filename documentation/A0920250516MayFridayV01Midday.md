@@ -445,3 +445,16 @@ output
 
 ____
 
+input
+
+```bash
+ros2 action list
+```
+
+output
+
+```bash
+
+```
+
+_____
