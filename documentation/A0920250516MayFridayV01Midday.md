@@ -385,6 +385,37 @@ ____
 input
 
 ```bash
+ros2 topic echo /turtle1/pose
+```
+
+output
+
+```bash
+x: 5.544444561004639
+y: 5.544444561004639
+theta: 0.0
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 5.544444561004639
+y: 5.544444561004639
+theta: 0.0
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+x: 5.544444561004639
+y: 5.544444561004639
+theta: 0.0
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+```
+
+____
+
+input
+
+```bash
 ros2 service list
 ```
 
