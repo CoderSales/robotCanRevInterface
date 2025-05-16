@@ -108,3 +108,22 @@ did not work
 worked.
 
 ____
+
+#### Recap of Steps to Install
+
+```text
+You're running WSL2 Ubuntu 22.04 — that works for ROS 2 Humble. Start with:
+```
+
+- (ChatGPT 2025) [20250515]
+
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y software-properties-common
+sudo add-apt-repository universe
+sudo apt update
+sudo apt install curl gnupg lsb-release -y
+```
+
+- (ChatGPT 2025) [20250515]
+- 
