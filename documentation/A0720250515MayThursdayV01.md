@@ -88,7 +88,7 @@ Figure:
 
 ____
 
-memory aide:
+memory aid:
 
 yellow =  hi (the sun is high in the sky)
 
