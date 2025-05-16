@@ -195,6 +195,30 @@ ros2 run demo_nodes_cpp talker
 
 ![image](https://github.com/user-attachments/assets/998fd2cf-3660-48a5-ba2f-60c6a5ae57e4)
 
+- Works
+
+____
+
+In second terminal
+
+Running Ubuntu 22 (Ubuntu 24 not supported)
+
+```bash
+ros2 --help
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+ros2 run demo_nodes_cpp talker
+```
+
+```bash
+ros2 run demo_nodes_py listener
+```
+
+While first terminal has:
+
+```bash
+ros2 run demo_nodes_py listener
+```
 
 ____
 
