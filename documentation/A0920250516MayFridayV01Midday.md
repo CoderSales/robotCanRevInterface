@@ -345,6 +345,17 @@ Issue
 
 turtlepose missing
 
+Fix
+
+Open a third Ubuntu 22 terminal and run
+
+```bash
+ros2 run turtlesim turtlesim_node
+```
+
+i.e. ensure turtlesim_node is running.
+
+
 ____
 
 input
