@@ -68,6 +68,18 @@ ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angu
 
 ____
 
+### Stop Turtle and Reset Position
+
+1. In Terminal: <kbd>Ctrl</kbd> <kbd>C</kbd> - stop turtle
+
+2. Then Reset Position of Turtle:
+
+```bash
+ros2 service call /reset std_srvs/srv/Empty "{}"
+```
+
+____
+
 ## References
 
 (ChatGPT 2025)
