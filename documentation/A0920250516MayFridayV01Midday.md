@@ -95,4 +95,16 @@ Commands:
   Call `ros2 <command> -h` for more detailed usage.
 ```
 
+##### Summary
+
+To check ROS 2 Installation
+
+`ros2 --version`
+
+did not work
+
+`ros2 --help`
+
+worked.
+
 ____
