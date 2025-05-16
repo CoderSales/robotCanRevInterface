@@ -257,3 +257,14 @@ ros2 --help
 ```
 
 _____
+
+3. Make the setup persistent by adding the source command to your .bashrc file:
+
+```bash
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+```
+
+This ensures that your environment is configured correctly every time you open a new terminal.
+
+____
+
