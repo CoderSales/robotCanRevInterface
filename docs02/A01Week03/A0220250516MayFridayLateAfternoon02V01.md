@@ -37,6 +37,15 @@ ____
 
 🔁 Next Step: Publish a velocity message to move turtle3
 
+Try this to make it move forward:
+
+```bash
+ros2 topic pub /turtle3/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"
+```
+
+
+Draws a straight line.
+
 ____
 
 ## References
