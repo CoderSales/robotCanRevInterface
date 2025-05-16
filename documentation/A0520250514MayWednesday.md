@@ -52,17 +52,17 @@ ____
 
 ###### Photos of Physical Setup
 
+> [!WARNING]
+> Warning: High Energy Electrical Device, exercise precautions.
+
+![Dangerous High Power Electrical Energy Hazard](https://github.com/user-attachments/assets/d765c476-0dac-4566-a9de-6e58189a7bdd)
+
 ____
 
 ![image](https://github.com/user-attachments/assets/672d0b95-0445-48dc-a5f9-47aa5786cce0)
 
 Figure: 
 ____
-
-> [!WARNING]
-> Warning: High Energy Electrical Device, exercise precautions.
-
-![Dangerous High Power Electrical Energy Hazard](https://github.com/user-attachments/assets/d765c476-0dac-4566-a9de-6e58189a7bdd)
 
 
 ![image](https://github.com/user-attachments/assets/f9eefbbb-f8f3-4869-962a-4f515d96da8b)
