@@ -311,4 +311,16 @@ ____
 
 ____
 
+Input
 
+```bash
+ ros2 node list
+```
+
+Output
+
+```bash
+/teleop_turtle
+```
+
+____
