@@ -60,3 +60,9 @@ ros2 service call /reset std_srvs/srv/Empty "{}"
 ```
 
 ____
+
+```bash
+ros2 service call /spawn turtlesim/srv/Spawn "{x: 3.0, y: 3.0, theta: 0.0, name: 'turtle3'}"
+```
+
+_____
