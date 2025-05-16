@@ -185,11 +185,16 @@ ____
 
 ____
 
-#### ChatGPT ROS2 Steps
+#### ChatGPT ROS 2 Steps
 
 ```bash
 ros2 run demo_nodes_cpp talker
 ```
+
+##### Output
+
+![image](https://github.com/user-attachments/assets/998fd2cf-3660-48a5-ba2f-60c6a5ae57e4)
+
 
 ____
 
