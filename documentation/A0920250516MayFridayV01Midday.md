@@ -500,3 +500,8 @@ ____
 Plugins > Services > Service Caller from the menu bar at the top.
 
 ____
+
+
+![image](https://github.com/user-attachments/assets/92e6c336-5560-4669-99fc-b0591167467a)
+
+____
