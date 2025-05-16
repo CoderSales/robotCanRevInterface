@@ -295,9 +295,16 @@ Open another terminal and run:
 ros2 run turtlesim turtle_teleop_key
 ```
 
-_____
+____
 
 ![image](https://github.com/user-attachments/assets/a7793252-be6b-42d8-9f97-c968e374d6f9)
 
-_____
+____
+
+Select right Window
+
+Use Arrow keys to move turtle
+
+____
+
 
