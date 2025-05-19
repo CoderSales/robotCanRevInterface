@@ -54,19 +54,9 @@ Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor
 
 ____
 
-Go to Basic tab.
+REV Hardware Client > set device ID: | Set Id to 10 for motor controller 1 - front left | Set Id to 11 for motor controller 2 - front right
 
-____
-
-Make sure to use REV Hardware Client to set the device ID.
-
-Set Id to 10 for motor controller 1 - front left
-
-Set Id to 11 for motor controller 2 - front right
-
-Set Id to 12 for motor controller 3 - rear left
-
-Set Id to 13 for motor controller 4 - rear right
+Set Id to 12 for motor controller 3 - rear left | Set Id to 13 for motor controller 4 - rear right
 
 ____
 
