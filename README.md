@@ -102,18 +102,11 @@ A01: [Continued here --> A01UbuntuFoxyInstallOnJetsonSteps.md](/documentation/A0
 
 A02: [UbuntuFoxyDocsTutorialsROS](documentation/A02UbuntuFoxyDocsTutorialsROS2Docs.md) <span><a href="https://docs.ros.org/en/foxy/Tutorials.html"><img src="https://github.com/user-attachments/assets/2cfcbe3a-2c64-49cd-9a3e-545fe4a87675" alt="Image of setup showing Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor" style="width:5%"></a></span>
 
-
-
-
 A03: [turtlesim](documentation/A03turtlesim.md) <span><a href="documentation/A03turtlesim.md"><img src="https://github.com/user-attachments/assets/ab895886-67ba-4cd4-b14e-9baac599438f" alt="Summary screenshot of document A03 in documentation folder in this repository" style="width:5%"></a></span>
 
+A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md) - Rev <span><a href="documentation/A0420250513MayTuesday.md"><img src="https://github.com/user-attachments/assets/cc1163c2-cd27-44ae-a009-f94ecc50aa00" alt="IMG_20250513_174304 Summary screenshot of document A04 in documentation folder in this repository" style="width:5%"></a></span>
 
-
-A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md) - Rev  <span><a href="documentation/A0420250513MayTuesday.md"><img src="https://github.com/user-attachments/assets/cc1163c2-cd27-44ae-a009-f94ecc50aa00" alt="IMG_20250513_174304 Summary screenshot of document A04 in documentation folder in this repository" style="width:5%"></a></span>
-
-
-
-A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring
+A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring <span><a href="documentation/A0520250514MayWednesday.md"><img src="https://github.com/user-attachments/assets/bfc018a4-264d-4c21-82bf-e3eaf80cd083" alt="Summary screenshot of document A05 in documentation folder in this repository" style="width:5%"></a></span>
 
 A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A06202505141529V01MayWednesdayAfternoonContinued.md) - REV Spark Max Motor Controller
 
