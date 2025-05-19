@@ -65,7 +65,7 @@ ____
 
 ## Hardware
 
-### Motor Controller: [Home  / Shop All  / SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp)
+### Motor Controller: [SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp)
 
 ### SPARK MAX Motor Controller
 
