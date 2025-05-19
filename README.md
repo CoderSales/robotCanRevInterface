@@ -127,6 +127,8 @@ docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A022
 
 docs02/A01Week03 A03 [20250516MayFridayStudyV01](docs02/A01Week03/A0320250516MayFridayStudyV01.md)
 
+docs02/A01Week03 A04 [20250519MayMondayV01](docs02/A01Week03/A0420250519MayMondayV01.md)
+
 ## References
 
 ChatGPT
