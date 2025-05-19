@@ -105,9 +105,6 @@ ____
 
 **[Continued here --> A01UbuntuFoxyInstallOnJetsonSteps.md](/documentation/A01UbuntuFoxyInstallOnJetsonSteps.md)**
 
-> [!IMPORTANT]
-> [Latest1]
-
 ## References
 
 ChatGPT
