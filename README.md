@@ -97,10 +97,10 @@ ____
 
 ### Next Steps
 
-A01: [Continued here --> A01UbuntuFoxyInstallOnJetsonSteps.md](/documentation/A01UbuntuFoxyInstallOnJetsonSteps.md) <img src="/20250508_183058.jpg" alt="Image of setup showing Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor" style="width:5%">
+A01: [Continued here --> A01UbuntuFoxyInstallOnJetsonSteps.md](/documentation/A01UbuntuFoxyInstallOnJetsonSteps.md) <span><img src="/20250508_183058.jpg" alt="Image of setup showing Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor" style="width:5%"></span>
 
 
-A02: [UbuntuFoxyDocsTutorialsROS]{documentation/A02UbuntuFoxyDocsTutorialsROS2Docs.md)
+A02: [UbuntuFoxyDocsTutorialsROS](documentation/A02UbuntuFoxyDocsTutorialsROS2Docs.md)
 
 A03: [turtlesim](documentation/A03turtlesim.md)
 
