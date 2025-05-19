@@ -50,10 +50,7 @@ ____
 
 Monitor plugged into Jetson AGX shows REV [Hardware Client](https://docs.revrobotics.com/rev-hardware-client/gs/install) running.
 
-<figure id="figureId">
-  <img src="/20250508_183058.jpg" alt="Image of setup showing Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor" style="width:50%">
-  <figcaption>Figure 1 - Image of setup showing Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor</figcaption>
-</figure>
+Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor
 
 ____
 
