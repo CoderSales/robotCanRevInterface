@@ -123,9 +123,9 @@ ____
 
 docs02/A01Week03 A01 [20250516MayFridayLateAfternoonTurtlesimServiceControl](https://github.com/CoderSales/robotCanRevInterface/blob/main/docs02/A01Week03/A0120250516MayFridayLateAfternoonTurtlesimServiceControl.md) - Turtlesim Service Control
 
-docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md)
+docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md) - ros2 topic list
 
-docs02/A01Week03 A03 [20250516MayFridayStudyV01](docs02/A01Week03/A0320250516MayFridayStudyV01.md)
+docs02/A01Week03 A03 [20250516MayFridayStudyV01](docs02/A01Week03/A0320250516MayFridayStudyV01.md) - 
 
 docs02/A01Week03 A04 [20250519MayMondayV01](docs02/A01Week03/A0420250519MayMondayV01.md)
 
