@@ -88,45 +88,7 @@ ____
   <figcaption>Figure 3 - Image of SPARK MAX Motor Controller</figcaption>
 </figure>
 
-#### Relevant Features
-
-- USB configuration and control
-
-- USB type C connector
-
-- Rapid configuration with a PC
-
-- Save/load configurations
-
-- Realistic prototyping using the actual control parameters
-
-- Smart control modes
-
-- Closed-loop control
-
-- Follower mode
-
-- Data port
-
-- Analog input
-
-- Limit switch input
-
-- Quadrature encoder input with index
-
-- Brushless DC sensor connector
-
-- 3-phase hall sensors
-
-- Motor temperature sensor
-
-- Compatible with the following motors
-
-- NEO Brushless Motor
-
-
 ____
-
 
 ### REV Motor
 
