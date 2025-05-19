@@ -152,9 +152,7 @@ ____
 
 ____
 
-### References (Theory)
-
-[Brushless DC electric motor | Wikipedia](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor)
+### References
 
 [CAN bus | Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)
 
@@ -162,14 +160,6 @@ ____
 
 [PWM Input Specifications](https://docs.revrobotics.com/brushless/spark-max/specs#pwm-input-specifications)
 
-### References (formatting)
-
-[CSS in Markdown | StackOverflow](https://stackoverflow.com/questions/27174946/how-to-use-css-in-markdown)
-
-[Image Border | w3schools](https://www.w3schools.com/howto/howto_css_border_image.asp)
-
-- [Practice | Image Border | w3schools](https://www.w3schools.com/howto/howto_css_border_image.asp)
+### Formatting
 
 [Markdown Symbols](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-[HTML | figcaption tag | w3schools](https://www.w3schools.com/tags/tag_figcaption.asp)
