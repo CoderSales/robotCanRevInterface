@@ -109,7 +109,9 @@ A03: [turtlesim](documentation/A03turtlesim.md) <span><a href="documentation/A03
 
 
 
-A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md) - Rev
+A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md) - Rev  <span><a href="documentation/A0420250513MayTuesday.md"><img src="https://github.com/user-attachments/assets/cc1163c2-cd27-44ae-a009-f94ecc50aa00" alt="IMG_20250513_174304 Summary screenshot of document A04 in documentation folder in this repository" style="width:5%"></a></span>
+
+
 
 A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring
 
