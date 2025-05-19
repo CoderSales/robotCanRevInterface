@@ -125,6 +125,8 @@ docs02/A01Week03 A01 [20250516MayFridayLateAfternoonTurtlesimServiceControl](htt
 
 docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md)
 
+docs02/A01Week03 A03 [20250516MayFridayStudyV01](docs02/A01Week03/A0320250516MayFridayStudyV01.md)
+
 ## References
 
 ChatGPT
