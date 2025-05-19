@@ -103,7 +103,9 @@ A02: [UbuntuFoxyDocsTutorialsROS]{documentation/A02UbuntuFoxyDocsTutorialsROS2Do
 
 A03: [turtlesim](documentation/A03turtlesim.md)
 
-A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md)
+A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md) - Rev
+
+A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring
 
 ## References
 
