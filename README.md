@@ -111,7 +111,7 @@ A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A062025051415
 
 A07: [20250515MayThursdayV01](documentation/A0720250515MayThursdayV01.md) - Remote Login, Resistance testing (CAN Hi Yellow Sun, Can Low Green Grass), CAN (Controller Area Network) notes
 
-A08: []()
+A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Evening.md) - ROS 2 Setup
 
 ## References
 
