@@ -144,14 +144,14 @@ ____
 
 ____
 
-### References
+### Ref > Theory
 
 [CAN bus | Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)
 
-#### Stats Table
+#### Ref > Stats Table
 
 [PWM Input Specifications](https://docs.revrobotics.com/brushless/spark-max/specs#pwm-input-specifications)
 
-### Formatting
+### Ref > Formatting
 
 [Markdown Symbols](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
