@@ -136,9 +136,7 @@ ____
 
 ### SPARK MAX Motor Controller
 
-[Home  / Shop All  / SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp)
-
-[SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
+[Home  / Shop All  / SPARK MAX Motor Controller](MAX_HERO-noflag__60247.webp) | [SPARK MAX Motor Controller | REV Robotoics](https://www.revrobotics.com/rev-11-2158/)
 
 ### SPARK Motor
 
