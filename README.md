@@ -117,6 +117,12 @@ A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md
 
 A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles
 
+____
+
+[docs02/A01Week03](docs02/A01Week03)
+
+
+
 ## References
 
 ChatGPT
