@@ -54,12 +54,7 @@ Windows 10 Desktop Jetson AGX Xavier Developer Kit Motor Driver and Motor
 
 ____
 
-REV Hardware Client > set device IDs | Save Configuration as new01
-
-____
-
-> [!NOTE]
-> Note: Click **Persist Configuration** (so that memory stores after Jetson power off.)
+REV Hardware Client > set device IDs | Save Configuration as new01 | **Note**: Click **Persist Configuration** (so that memory stores after Jetson power off.)
 
 ____
 
