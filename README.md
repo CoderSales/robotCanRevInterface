@@ -24,18 +24,11 @@ Turn off the Delta Electroinka SM330-AR-22 Power Supply before disconnecting the
 > [!CAUTION]
 > Caution: High Risk Electrical Energy Hazard
 
-
 ____
-
-
 
 ## Description
 
 robot Can Rev Interface
-
-
-> [!IMPORTANT]
-> Ctrl + F --> [Latest1]
 
 ## Content
 
