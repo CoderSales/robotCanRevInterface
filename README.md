@@ -113,7 +113,7 @@ A07: [20250515MayThursdayV01](documentation/A0720250515MayThursdayV01.md) - Logi
 
 A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Evening.md) - ROS 2 Setup
 
-A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Flashing Light meaning table on Spark Max Motor Controller | ROS 2 Humble Z Turtlesim | rqt GUI
+A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Flashing Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI
 
 
 ## References
