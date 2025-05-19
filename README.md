@@ -115,6 +115,7 @@ A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Even
 
 A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Flashing Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI
 
+A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles
 
 ## References
 
