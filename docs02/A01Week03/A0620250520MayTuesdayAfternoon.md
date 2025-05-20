@@ -46,6 +46,14 @@ Then retry.
 
 ____
 
+Causes turtle to twist:
+
+```bash
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.5}}"
+```
+
+____
+
 ## References
 
 [ChatGPT](https://chatgpt.com/)
