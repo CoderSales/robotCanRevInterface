@@ -108,10 +108,7 @@ A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md) - Rev <span><a
 
 A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring <span><a href="documentation/A0520250514MayWednesday.md"><img src="https://github.com/user-attachments/assets/bfc018a4-264d-4c21-82bf-e3eaf80cd083" alt="Summary screenshot of document A05 in documentation folder in this repository" style="width:5%"></a></span>
 
-
-A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A06202505141529V01MayWednesdayAfternoonContinued.md) - REV Spark Max Motor Controller <span><a href="documentation/A06202505141529V01MayWednesdayAfternoonContinued.md"><img src="https://github.com/user-attachments/assets/dd94bbf0-b05a-489b-a780-36f8782e6584" alt="Summary screenshot of document A06 in documentation folder in this repository" style="width:5%"></a></span>
-
-
+A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A06202505141529V01MayWednesdayAfternoonContinued.md) - REV Spark Max Motor Controller <span><a href="documentation/A06202505141529V01MayWednesdayAfternoonContinued.md"><img src="https://github.com/user-attachments/assets/0c88a14c-1f9b-4555-b764-bd34f0e6cec3" alt="Summary screenshot of document A06 in documentation folder in this repository A06SummaryScreenshotA01202505201131V01" style="width:5%"></a></span>
 
 > [!IMPORTANT]
 > Ctrl + F --> [Latest1]
