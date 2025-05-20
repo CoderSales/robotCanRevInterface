@@ -119,10 +119,11 @@ A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md
 
 A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles <span><a href="documentation/A1020250516MayFridayAfternoon.md"><img src="https://github.com/user-attachments/assets/ddadb6ee-57e8-4b3f-b563-c459d5af77c6" alt="Summary screenshot of document A10 in documentation folder in this repository" style="width:5%"></a></span>
 
+____
+
+
 > [!IMPORTANT]
 > Ctrl + F --> [Latest1]
-
-____
 
 [docs02/A01Week03](docs02/A01Week03)
 
