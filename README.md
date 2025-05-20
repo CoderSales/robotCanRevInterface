@@ -110,15 +110,17 @@ A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring <
 
 A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A06202505141529V01MayWednesdayAfternoonContinued.md) - REV Spark Max Motor Controller <span><a href="documentation/A06202505141529V01MayWednesdayAfternoonContinued.md"><img src="https://github.com/user-attachments/assets/0c88a14c-1f9b-4555-b764-bd34f0e6cec3" alt="Summary screenshot of document A06 in documentation folder in this repository A06SummaryScreenshotA01202505201131V01" style="width:5%"></a></span>
 
-> [!IMPORTANT]
-> Ctrl + F --> [Latest1]
-
 
 A07: [20250515MayThursdayV01](documentation/A0720250515MayThursdayV01.md) - Login, Resistance testing (CAN Hi Yellow Sun, Can Low Green Grass), CAN (Controller Area Network) <span><a href="documentation/A0720250515MayThursdayV01.md"><img src="https://github.com/user-attachments/assets/729b3dd0-e775-464c-b332-f4c7eb97d92b" alt="Summary screenshot of document A07 in documentation folder in this repository" style="width:5%"></a></span>
 
 A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Evening.md) - ROS 2 Setup <span><a href="documentation/A0820250515MayThursdayV02Evening.md"><img src="https://github.com/user-attachments/assets/2c391f3f-0304-45ad-8583-be81be11ce34" alt="Summary screenshot of document A08 in documentation folder in this repository" style="width:5%"></a></span>
 
-A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Flashing Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI
+A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Flashing Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI <span><a href="documentation/A0920250516MayFridayV01Midday.md"><img src="https://github.com/user-attachments/assets/8a8819ad-0f71-4430-a894-fbc224aaead2" alt="Summary screenshot of document A09 in documentation folder in this repository" style="width:5%"></a></span>
+
+
+> [!IMPORTANT]
+> Ctrl + F --> [Latest1]
+
 
 A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles
 
