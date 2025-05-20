@@ -116,7 +116,7 @@ A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Even
 
 A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI <span><a href="documentation/A0920250516MayFridayV01Midday.md"><img src="https://github.com/user-attachments/assets/8a8819ad-0f71-4430-a894-fbc224aaead2" alt="Summary screenshot of document A09 in documentation folder in this repository" style="width:5%"></a></span>
 
-A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles <span><a href="documentation/A1020250516MayFridayAfternoon.md"><img src="https://github.com/user-attachments/assets/ddadb6ee-57e8-4b3f-b563-c459d5af77c6" alt="Summary screenshot of document A10 in documentation folder in this repository" style="width:5%"></a></span>
+A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles <span><a href="documentation/A1020250516MayFridayAfternoon.md"><img src="https://github.com/user-attachments/assets/ddadb6ee-57e8-4b3f-b563-c459d5af77c6" alt="Summary screenshot of document A10 in documentation folder in this repository" style="width:2%"></a></span>
 
 ____
 
@@ -126,7 +126,7 @@ ____
 docs02/A01Week03 A01 [20250516MayFridayLateAfternoonTurtlesimServiceControl](https://github.com/CoderSales/robotCanRevInterface/blob/main/docs02/A01Week03/A0120250516MayFridayLateAfternoonTurtlesimServiceControl.md) - Turtlesim Service Control <span><a href="docs02/A01Week03/A0120250516MayFridayLateAfternoonTurtlesimServiceControl.md"><img src="https://github.com/user-attachments/assets/a652c5c5-b65b-488d-ab02-dca331109d7f" alt="Summary screenshot of document folder docs02/A01Week03/A0120250516MayFridayLateAfternoonTurtlesimServiceControl in documentation folder in this repository" style="width:3%"></a></span>
 
 
-docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md) - ros2 topic list <span><a href="docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md"><img src="https://github.com/user-attachments/assets/91b32f4d-e5ca-4d07-816c-20e0e6cf951c" alt="Summary screenshot of document folder docs02/A01Week03/A02 in documentation folder in this repository" style="width:2%"></a></span>
+docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md) - ros2 topic list <span><a href="docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md"><img src="https://github.com/user-attachments/assets/91b32f4d-e5ca-4d07-816c-20e0e6cf951c" alt="Summary screenshot of document folder docs02/A01Week03/A02 in documentation folder in this repository" style="width:1%"></a></span>
 
 _____
 
