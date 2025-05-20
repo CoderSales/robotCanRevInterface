@@ -108,6 +108,13 @@ A04: [20250513MayTuesday](documentation/A0420250513MayTuesday.md) - Rev <span><a
 
 A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring <span><a href="documentation/A0520250514MayWednesday.md"><img src="https://github.com/user-attachments/assets/bfc018a4-264d-4c21-82bf-e3eaf80cd083" alt="Summary screenshot of document A05 in documentation folder in this repository" style="width:5%"></a></span>
 
+
+> [!IMPORTANT]
+> Ctrl + F --> [Latest1]
+
+
+
+
 A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A06202505141529V01MayWednesdayAfternoonContinued.md) - REV Spark Max Motor Controller
 
 A07: [20250515MayThursdayV01](documentation/A0720250515MayThursdayV01.md) - Login, Resistance testing (CAN Hi Yellow Sun, Can Low Green Grass), CAN (Controller Area Network) notes
