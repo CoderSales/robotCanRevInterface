@@ -52,6 +52,14 @@ Causes turtle to twist:
 ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.5}}"
 ```
 
+Stop turtle cleanly (ChatGPT 2025):
+
+```bash
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.0}, angular: {z: 0.0}}" --once
+```
+
+(ChatGPT 2025)
+
 ____
 
 ## References
