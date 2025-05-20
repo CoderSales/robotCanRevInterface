@@ -117,9 +117,7 @@ A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Even
 
 A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI <span><a href="documentation/A0920250516MayFridayV01Midday.md"><img src="https://github.com/user-attachments/assets/8a8819ad-0f71-4430-a894-fbc224aaead2" alt="Summary screenshot of document A09 in documentation folder in this repository" style="width:5%"></a></span>
 
-A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles
-
-<span><a href="documentation/A1020250516MayFridayAfternoon.md"><img src="https://github.com/user-attachments/assets/ddadb6ee-57e8-4b3f-b563-c459d5af77c6" alt="Summary screenshot of document A10 in documentation folder in this repository" style="width:5%"></a></span>
+A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md) - turtlesim | rqt GUI | 2 turtles <span><a href="documentation/A1020250516MayFridayAfternoon.md"><img src="https://github.com/user-attachments/assets/ddadb6ee-57e8-4b3f-b563-c459d5af77c6" alt="Summary screenshot of document A10 in documentation folder in this repository" style="width:5%"></a></span>
 
 > [!IMPORTANT]
 > Ctrl + F --> [Latest1]
