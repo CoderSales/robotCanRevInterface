@@ -116,7 +116,7 @@ A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A062025051415
 
 A07: [20250515MayThursdayV01](documentation/A0720250515MayThursdayV01.md) - Login, Resistance testing (CAN Hi Yellow Sun, Can Low Green Grass), CAN (Controller Area Network) <span><a href="documentation/A0720250515MayThursdayV01.md"><img src="https://github.com/user-attachments/assets/729b3dd0-e775-464c-b332-f4c7eb97d92b" alt="Summary screenshot of document A07 in documentation folder in this repository" style="width:5%"></a></span>
 
-A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Evening.md) - ROS 2 Setup
+A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Evening.md) - ROS 2 Setup <span><a href="documentation/A0820250515MayThursdayV02Evening.md"><img src="https://github.com/user-attachments/assets/2c391f3f-0304-45ad-8583-be81be11ce34" alt="Summary screenshot of document A08 in documentation folder in this repository" style="width:5%"></a></span>
 
 A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Flashing Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI
 
