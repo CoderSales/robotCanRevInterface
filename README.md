@@ -130,13 +130,12 @@ docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A022
 
 _____
 
-
 docs02/A01Week03 A03 [20250516MayFridayStudyV01](docs02/A01Week03/A0320250516MayFridayStudyV01.md) - turtlesim | commands | service | clear screen <span><a href="docs02/A01Week03/A0320250516MayFridayStudyV01.md"><img src="https://github.com/user-attachments/assets/d3de3375-c699-41cf-8704-8c6ccd848601" alt="Summary screenshot of document folder docs02/A01Week03/A03 in documentation folder in this repository" style="width:5%"></a></span>
+
+docs02/A01Week03 A04 [20250519MayMondayV01](docs02/A01Week03/A0420250519MayMondayV01.md) - turtlesim | commands | launch from Terminals | teleport <span><a href="docs02/A01Week03/A0420250519MayMondayV01.md"><img src="https://github.com/user-attachments/assets/6d40a381-46de-4d4d-8eec-f6c4d34b5783" alt="Summary screenshot of document folder docs02/A01Week03/A04 in documentation folder in this repository" style="width:5%"></a></span>
 
 > [!IMPORTANT]
 > Ctrl + F --> [Latest1]
-
-docs02/A01Week03 A04 [20250519MayMondayV01](docs02/A01Week03/A0420250519MayMondayV01.md) - turtlesim | commands | launch from Terminals | teleport <span><a href="docs02/A01Week03/A0420250519MayMondayV01.md"><img src="https://github.com/user-attachments/assets/6d40a381-46de-4d4d-8eec-f6c4d34b5783" alt="Summary screenshot of document folder docs02/A01Week03/A04 in documentation folder in this repository" style="width:5%"></a></span>
 
 ____
 
