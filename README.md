@@ -110,7 +110,6 @@ A05: [20250514MayWednesday](documentation/A0520250514MayWednesday.md) - Wiring <
 
 A06: [202505141529V01MayWednesdayAfternoonContinued](documentation/A06202505141529V01MayWednesdayAfternoonContinued.md) - REV Spark Max Motor Controller <span><a href="documentation/A06202505141529V01MayWednesdayAfternoonContinued.md"><img src="https://github.com/user-attachments/assets/0c88a14c-1f9b-4555-b764-bd34f0e6cec3" alt="Summary screenshot of document A06 in documentation folder in this repository A06SummaryScreenshotA01202505201131V01" style="width:5%"></a></span>
 
-
 A07: [20250515MayThursdayV01](documentation/A0720250515MayThursdayV01.md) - Login, Resistance testing (CAN Hi Yellow Sun, Can Low Green Grass), CAN (Controller Area Network) <span><a href="documentation/A0720250515MayThursdayV01.md"><img src="https://github.com/user-attachments/assets/729b3dd0-e775-464c-b332-f4c7eb97d92b" alt="Summary screenshot of document A07 in documentation folder in this repository" style="width:5%"></a></span>
 
 A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Evening.md) - ROS 2 Setup <span><a href="documentation/A0820250515MayThursdayV02Evening.md"><img src="https://github.com/user-attachments/assets/2c391f3f-0304-45ad-8583-be81be11ce34" alt="Summary screenshot of document A08 in documentation folder in this repository" style="width:5%"></a></span>
@@ -121,19 +120,25 @@ A10: [20250516MayFridayAfternoon](documentation/A1020250516MayFridayAfternoon.md
 
 ____
 
-> [!IMPORTANT]
-> Ctrl + F --> [Latest1]
 
 [docs02/A01Week03](docs02/A01Week03) folder <span><a href="documentation/docs02/A01Week03"><img src="https://github.com/user-attachments/assets/aeb7c8cf-9aac-4bc1-a9e3-fc3802ff59ce" alt="Summary screenshot of document folder docs02/A01week03 in documentation folder in this repository" style="width:5%"></a></span>
 
 docs02/A01Week03 A01 [20250516MayFridayLateAfternoonTurtlesimServiceControl](https://github.com/CoderSales/robotCanRevInterface/blob/main/docs02/A01Week03/A0120250516MayFridayLateAfternoonTurtlesimServiceControl.md) - Turtlesim Service Control <span><a href="docs02/A01Week03/A0120250516MayFridayLateAfternoonTurtlesimServiceControl.md"><img src="https://github.com/user-attachments/assets/a652c5c5-b65b-488d-ab02-dca331109d7f" alt="Summary screenshot of document folder docs02/A01Week03/A0120250516MayFridayLateAfternoonTurtlesimServiceControl in documentation folder in this repository" style="width:5%"></a></span>
 
+
 docs02/A01Week03 A02 [20250516MayFridayLateAfternoon02V01](docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md) - ros2 topic list <span><a href="docs02/A01Week03/A0220250516MayFridayLateAfternoon02V01.md"><img src="https://github.com/user-attachments/assets/91b32f4d-e5ca-4d07-816c-20e0e6cf951c" alt="Summary screenshot of document folder docs02/A01Week03/A02 in documentation folder in this repository" style="width:5%"></a></span>
 
+_____
 
-docs02/A01Week03 A03 [20250516MayFridayStudyV01](docs02/A01Week03/A0320250516MayFridayStudyV01.md) - turtlesim | commands | service | clear screen
+
+docs02/A01Week03 A03 [20250516MayFridayStudyV01](docs02/A01Week03/A0320250516MayFridayStudyV01.md) - turtlesim | commands | service | clear screen <span><a href="docs02/A01Week03/A0320250516MayFridayStudyV01.md"><img src="https://github.com/user-attachments/assets/d3de3375-c699-41cf-8704-8c6ccd848601" alt="Summary screenshot of document folder docs02/A01Week03/A03 in documentation folder in this repository" style="width:5%"></a></span>
+
+> [!IMPORTANT]
+> Ctrl + F --> [Latest1]
 
 docs02/A01Week03 A04 [20250519MayMondayV01](docs02/A01Week03/A0420250519MayMondayV01.md) - turtlesim | commands | launch from Terminals | teleport
+
+____
 
 ## References
 
