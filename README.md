@@ -115,7 +115,7 @@ A07: [20250515MayThursdayV01](documentation/A0720250515MayThursdayV01.md) - Logi
 
 A08: [20250515MayThursdayV02Evening](documentation/A0820250515MayThursdayV02Evening.md) - ROS 2 Setup <span><a href="documentation/A0820250515MayThursdayV02Evening.md"><img src="https://github.com/user-attachments/assets/2c391f3f-0304-45ad-8583-be81be11ce34" alt="Summary screenshot of document A08 in documentation folder in this repository" style="width:5%"></a></span>
 
-A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Flashing Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI <span><a href="documentation/A0920250516MayFridayV01Midday.md"><img src="https://github.com/user-attachments/assets/8a8819ad-0f71-4430-a894-fbc224aaead2" alt="Summary screenshot of document A09 in documentation folder in this repository" style="width:5%"></a></span>
+A09: [20250516MayFridayV01Midday](documentation/A0920250516MayFridayV01Midday.md) - Light meaning table on Spark Max Motor Controller | ROS 2 Humble | Turtlesim | rqt GUI <span><a href="documentation/A0920250516MayFridayV01Midday.md"><img src="https://github.com/user-attachments/assets/8a8819ad-0f71-4430-a894-fbc224aaead2" alt="Summary screenshot of document A09 in documentation folder in this repository" style="width:5%"></a></span>
 
 
 > [!IMPORTANT]
