@@ -62,6 +62,18 @@ ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.0}, angu
 
 ____
 
+Check active nodes (optional debug check):
+
+```bash
+ros2 node list
+```
+
+Close all publishers cleanly → just Ctrl+C on each.
+
+(ChatGPT 2025)
+
+____
+
 ## References
 
 [ChatGPT](https://chatgpt.com/)
