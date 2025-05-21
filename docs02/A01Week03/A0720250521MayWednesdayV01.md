@@ -8,9 +8,10 @@
 
 ```bash
 
+### Progress
+
 ____
 
-## Progress (21 May 2025, Wednesday)
 
 🖼️ Turtle completed a red circle using `/turtle1/set_pen`  
 Settings used (via `rqt_service_caller`):
