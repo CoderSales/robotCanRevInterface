@@ -137,9 +137,11 @@ docs02/A01Week03 A04 [20250519MayMondayV01](docs02/A01Week03/A0420250519MayMonda
 > [!IMPORTANT]
 > Ctrl + F --> [Latest1]
 
-docs02/A01Week03 A05 [20250519MayMondayV01](docs02/A01Week03/A0520250520MayTuesdayV01.md) - turtlesim | commands | Terminals<span><a href="docs02/A01Week03/A0520250520MayTuesdayV01.md"><img src="https://github.com/user-attachments/assets/0220360c-2934-4e4a-9849-432c99793830" alt="Summary screenshot of document A05 in document folder docs02/A01Week03 in this repository" style="width:5%"></a></span>
+docs02/A01Week03 A05 [20250520MayTuesdayV01](docs02/A01Week03/A0520250520MayTuesdayV01.md) - turtlesim | commands | Terminals<span><a href="docs02/A01Week03/A0520250520MayTuesdayV01.md"><img src="https://github.com/user-attachments/assets/0220360c-2934-4e4a-9849-432c99793830" alt="Summary screenshot of document A05 in document folder docs02/A01Week03 in this repository" style="width:5%"></a></span>
 
-docs02/A01Week03 A06 [20250519MayMondayV01](docs02/A01Week03/A0620250520MayTuesdayAfternoon.md) - turtlesim | commands | Terminals<span><a href="docs02/A01Week03/A0620250520MayTuesdayAfternoon.md"><img src="https://github.com/user-attachments/assets/9a69e949-e88b-4df9-8da4-e9752e747235" alt="Summary screenshot of document A06 in document folder docs02/A01Week03 in this repository" style="width:5%"></a></span>
+docs02/A01Week03 A06 [20250520MayTuesdayAfternoon](docs02/A01Week03/A0620250520MayTuesdayAfternoon.md) - turtlesim | commands | Terminals<span><a href="docs02/A01Week03/A0620250520MayTuesdayAfternoon.md"><img src="https://github.com/user-attachments/assets/9a69e949-e88b-4df9-8da4-e9752e747235" alt="Summary screenshot of document A06 in document folder docs02/A01Week03 in this repository" style="width:5%"></a></span>
+
+docs02/A01Week03 A07 [20250521MayWednesdayV01](docs02/A01Week03/A0720250521MayWednesdayV01.md) - turtlesim | commands | Terminals<span><a href="docs02/A01Week03/A0720250521MayWednesdayV01.md"><img src="https://github.com/user-attachments/assets/2124f1de-3ce0-47ff-b78b-038cedbb0893" alt="Summary screenshot of document A07 in document folder docs02/A01Week03 in this repository" style="width:5%"></a></span>
 
 ____
 
