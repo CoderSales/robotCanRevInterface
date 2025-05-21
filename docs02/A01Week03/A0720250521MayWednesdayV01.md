@@ -31,7 +31,7 @@ GUI tools:
 
 
 
-📸 Screenshot saved before closing:
+📸 Screenshot of rqt and turtlesim:
 
 ![image](https://github.com/user-attachments/assets/0a84df35-f9be-4012-9224-23d0dc23702e)
 
