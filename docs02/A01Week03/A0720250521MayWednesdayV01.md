@@ -19,17 +19,23 @@ Settings used (via `rqt_service_caller`):
 - `b: 0`
 - `width: 0`
 - `off: 0`
+```
+
+
 
 GUI tools:
+
 - `rqt` open with `/turtle1/set_pen` loaded
+
 - `turtlesim_node` drawing visible
+
+
+
+
 
 📸 Screenshot saved before closing:
 
 ![image](https://github.com/user-attachments/assets/0a84df35-f9be-4012-9224-23d0dc23702e)
-
-
-```
 
 ([ChatGPT](https://chatgpt.com/) 2025)
 
