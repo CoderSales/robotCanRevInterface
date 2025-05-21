@@ -6,14 +6,11 @@
 
 ## Content
 
-```bash
-
 ### Progress
 
-____
+🖼️ Turtle --> red circle using `/turtle1/set_pen` 
 
-
-🖼️ Turtle completed a red circle using `/turtle1/set_pen`  
+```bash
 Settings used (via `rqt_service_caller`):
 - `r: 255`
 - `g: 0`
