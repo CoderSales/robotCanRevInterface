@@ -25,7 +25,8 @@ GUI tools:
 - `turtlesim_node` drawing visible
 
 📸 Screenshot saved before closing:
-`b2c43bc9-1c9f-4240-a15b-5d04ad53f2de.png`
+
+![image](https://github.com/user-attachments/assets/0a84df35-f9be-4012-9224-23d0dc23702e)
 
 
 ```
