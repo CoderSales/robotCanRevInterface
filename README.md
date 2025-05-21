@@ -137,6 +137,10 @@ docs02/A01Week03 A04 [20250519MayMondayV01](docs02/A01Week03/A0420250519MayMonda
 > [!IMPORTANT]
 > Ctrl + F --> [Latest1]
 
+docs02/A01Week03 A05 [20250519MayMondayV01](docs02/A01Week03/A0520250520MayTuesdayV01.md) - turtlesim | commands | Terminals<span><a href="docs02/A01Week03/A0520250520MayTuesdayV01.md"><img src="https://github.com/user-attachments/assets/0220360c-2934-4e4a-9849-432c99793830" alt="Summary screenshot of document A05 in document folder docs02/A01Week03 in this repository" style="width:5%"></a></span>
+
+docs02/A01Week03 A06 [20250519MayMondayV01](docs02/A01Week03/A0620250520MayTuesdayAfternoon.md) - turtlesim | commands | Terminals<span><a href="docs02/A01Week03/A0620250520MayTuesdayAfternoon.md"><img src="https://github.com/user-attachments/assets/9a69e949-e88b-4df9-8da4-e9752e747235" alt="Summary screenshot of document A06 in document folder docs02/A01Week03 in this repository" style="width:5%"></a></span>
+
 ____
 
 ## References
