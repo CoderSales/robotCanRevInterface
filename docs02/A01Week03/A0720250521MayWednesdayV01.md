@@ -30,6 +30,8 @@ GUI tools:
 
 ```
 
+([ChatGPT](https://chatgpt.com/) 2025)
+
 ## References
 
-[ChatGPT](https://chatgpt.com/)
+[ChatGPT](https://chatgpt.com/) 2025
