@@ -6,6 +6,10 @@
 
 ## Content
 
+```bash
+rviz2
+```
+
 ![image](https://github.com/user-attachments/assets/ab427e73-a970-4525-92e8-ee2e88fcb02f)
 
 
