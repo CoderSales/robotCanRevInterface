@@ -55,6 +55,10 @@ ros2 node info /my_turtle
   Action Clients:
 ```
 
+#### Summary:
+
+> 💡 **/my_turtle**: Full-service node (draws, spawns, publishes sensor + pose data)
+
 ____
 
 ```bash
