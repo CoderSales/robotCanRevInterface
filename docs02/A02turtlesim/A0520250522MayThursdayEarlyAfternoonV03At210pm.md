@@ -128,6 +128,78 @@ publishing #2: geometry_msgs.msg.Twist(linear=geometry_msgs.msg.Vector3(x=2.0, y
 
 ![image](https://github.com/user-attachments/assets/3500bf96-91d5-4d2f-b78f-88cf137ff068)
 
+____
+
+### Review: Understanding Topics
+
+#### Terminal 1
+
+```bash
+ros2 run turtlesim turtlesim_node
+```
+
+#### Terminal 2
+
+```bash
+ros2 run turtlesim turtle_teleop_key
+```
+
+#### Terminal 3
+
+```bash
+rqt_graph
+```
+
+#### Terminal 4
+
+```bash
+ros2 topic list
+ros2 topic list -t
+```
+
+#### Terminal 5
+
+```bash
+ros2 topic echo /turtle1/cmd_vel
+```
+
+(Press arrow keys in Terminal 2 to see data)
+
+#### Terminal 6
+
+```bash
+ros2 topic info /turtle1/cmd_vel
+ros2 interface show geometry_msgs/msg/Twist
+```
+
+#### Terminal 7
+
+```bash
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 2.0}, angular: {z: 1.8}}"
+```
+
+#### Terminal 8
+
+```
+ros2 topic hz /turtle1/cmd_vel
+```
+
+#### Terminal 9
+
+```bash
+ros2 topic bw /turtle1/cmd_vel
+```
+
+#### Terminal 10
+
+```bash
+ros2 topic find geometry_msgs/msg/Twist
+```
+
+✅ Topics explored via CLI and rqt_graph. Verified communication across turtles 1 and 2.
+
+
+
 
 ____
 ____
