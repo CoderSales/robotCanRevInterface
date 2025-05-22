@@ -4,9 +4,31 @@
 
 ### Understanding Topics
 
+#### Terminal 1
 
+```bash
+ros2 run turtlesim turtlesim_node
+```
+
+#### Terminal 2
+
+```bash
+ros2 run turtlesim turtle_teleop_key
+```
+
+#### Terminal 3
+
+```bash
+rqt_graph
+```
+
+![image](https://github.com/user-attachments/assets/25deee05-f399-4e82-bf6f-a05106ceb499)
+
+____
 
 ([ChatGPT](https://chatgpt.com/) 2025)
+
+____
 
 ## References
 
