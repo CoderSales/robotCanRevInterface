@@ -65,7 +65,9 @@ Pin | Name      | Function          | Notes
 ([ChatGPT](https://chatgpt.com/) 2025)
 
 
-![image](https://github.com/user-attachments/assets/fd04eba8-a715-48c6-ad95-75dde3603538)
+![XavierGPIOPin1V02](https://github.com/user-attachments/assets/67d0bcc7-7c67-4e67-9206-8930686d9712)
+
+[image] (jetsonhacks.com 2025)
 
 
 ____
