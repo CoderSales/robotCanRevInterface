@@ -70,6 +70,20 @@ This command controls turtles in all three windows shown below.
 ros2 topic echo /turtle1/cmd_vel
 ```
 
+output to terminal:
+
+```bash
+linear:
+  x: 2.0
+  y: 0.0
+  z: 0.0
+angular:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+---
+```
+
 ____
 
 
