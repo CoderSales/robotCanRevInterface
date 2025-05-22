@@ -99,6 +99,22 @@ Subscription count: 4
 ```
 
 ____
+
+```bash
+ros2 interface show geometry_msgs/msg/Twist
+# This expresses velocity in free space broken into its linear and angular parts.
+
+Vector3  linear
+        float64 x
+        float64 y
+        float64 z
+Vector3  angular
+        float64 x
+        float64 y
+        float64 z
+```
+
+____
 ____
 
 ([ChatGPT](https://chatgpt.com/) 2025)
