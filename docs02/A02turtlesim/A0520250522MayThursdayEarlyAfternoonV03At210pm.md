@@ -62,6 +62,22 @@ ____
 
 ____
 
+
+"Listener":
+
+```bash
+ros2 topic echo /turtle1/cmd_vel
+```
+
+____
+
+
+![image](https://github.com/user-attachments/assets/b42a8493-2871-4ad6-b09b-8cae42a73565)
+
+
+____
+____
+
 ([ChatGPT](https://chatgpt.com/) 2025)
 
 ____
