@@ -2,7 +2,7 @@
 
 ## Content
 
-> 🟡 No active nodes yet — we'll launch turtlesim with a custom name.
+> 🟡 No active nodes yet — turtlesim will be launched using a custom name.
 
 ### input
 
