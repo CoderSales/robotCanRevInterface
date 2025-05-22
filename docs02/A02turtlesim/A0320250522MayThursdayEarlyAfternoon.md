@@ -27,6 +27,16 @@ rqt
 
 🟢 Wait for GUI
 
+...
+
+_____
+
+### Control turtle2 with arrow keys
+
+```bash
+ros2 run turtlesim turtle_teleop_key --ros-args --remap turtle1/cmd_vel:=turtle2/cmd_vel
+```
+
 ([ChatGPT](https://chatgpt.com/) 2025)
 
 ## References
