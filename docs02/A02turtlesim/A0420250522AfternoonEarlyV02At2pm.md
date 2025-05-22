@@ -5,6 +5,19 @@
 ### input
 
 ```bash
+ros2 node list
+```
+
+empty so run next 2 commands:
+
+```bash
+ros2 run turtlesim turtlesim_node --ros-args --remap __node:=my_turtle
+```
+
+![image](https://github.com/user-attachments/assets/6d5d5e46-2361-4a12-9bae-e1e65db090fd)
+
+
+```bash
 ros2 node info /my_turtle
 ```
 
