@@ -89,6 +89,14 @@ ____
 
 ![image](https://github.com/user-attachments/assets/b42a8493-2871-4ad6-b09b-8cae42a73565)
 
+____
+
+```bash
+ros2 topic info /turtle1/cmd_vel
+Type: geometry_msgs/msg/Twist
+Publisher count: 2
+Subscription count: 4
+```
 
 ____
 ____
