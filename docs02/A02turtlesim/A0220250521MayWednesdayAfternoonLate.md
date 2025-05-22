@@ -14,6 +14,11 @@ rviz2
 
 ____
 
+```bash
+rqt
+```
+____
+
 turtle3
 
 ![image](https://github.com/user-attachments/assets/5af8b4fc-9f35-4965-b959-cdc601e50fa1)
