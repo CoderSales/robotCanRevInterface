@@ -28,6 +28,22 @@ rqt_graph
 
 ____
 
+```bash
+ros2 topic list
+/parameter_events
+/rosout
+/turtle1/cmd_vel
+/turtle1/color_sensor
+/turtle1/pose
+/turtle2/cmd_vel
+/turtle2/color_sensor
+/turtle2/pose
+```
+
+____
+
+____
+
 ([ChatGPT](https://chatgpt.com/) 2025)
 
 ____
