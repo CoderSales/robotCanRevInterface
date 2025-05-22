@@ -12,6 +12,8 @@ rviz2
 
 ![image](https://github.com/user-attachments/assets/ab427e73-a970-4525-92e8-ee2e88fcb02f)
 
+### Code from Open Terminals from yesterday
+
 ____
 
 ```bash
@@ -23,6 +25,11 @@ turtle3
 
 ![image](https://github.com/user-attachments/assets/5af8b4fc-9f35-4965-b959-cdc601e50fa1)
 
+____
+
+```bash
+ros2 run turtlesim turtle_teleop_key
+```
 
 ## References
 
