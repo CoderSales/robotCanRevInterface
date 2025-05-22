@@ -44,6 +44,22 @@ ____
 
 ____
 
+```bash
+ros2 topic list -t
+/parameter_events [rcl_interfaces/msg/ParameterEvent]
+/rosout [rcl_interfaces/msg/Log]
+/turtle1/cmd_vel [geometry_msgs/msg/Twist]
+/turtle1/color_sensor [turtlesim/msg/Color]
+/turtle1/pose [turtlesim/msg/Pose]
+/turtle2/cmd_vel [geometry_msgs/msg/Twist]
+/turtle2/color_sensor [turtlesim/msg/Color]
+/turtle2/pose [turtlesim/msg/Pose]
+```
+
+____
+
+____
+
 ([ChatGPT](https://chatgpt.com/) 2025)
 
 ____
