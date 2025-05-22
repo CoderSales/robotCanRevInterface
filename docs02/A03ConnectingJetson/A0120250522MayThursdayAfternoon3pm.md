@@ -64,6 +64,10 @@ Pin | Name      | Function          | Notes
 
 ([ChatGPT](https://chatgpt.com/) 2025)
 
+
+![image](https://github.com/user-attachments/assets/fd04eba8-a715-48c6-ad95-75dde3603538)
+
+
 ____
 
 
@@ -72,3 +76,6 @@ ____
 [ChatGPT](https://chatgpt.com/)
 
 [JETSON AGX Orin J30 GPIO EXPANSION HEADER PINOUT](https://jetsonhacks.com/nvidia-jetson-agx-orin-gpio-header-pinout/)
+
+jetsonhacks.com (2025) JETSON AGX XAVIER J30 GPIO EXPANSION HEADER PINOUT. Jetson AGX Xavier Pin 1
+ [image] [online] available: https://jetsonhacks.com/nvidia-jetson-agx-xavier-gpio-header-pinout/
