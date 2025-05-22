@@ -16,7 +16,6 @@ ____
 
 ### The 40 pins of the Jetson AGX Xavier J30 GPIO header
 
-```
 
 ```bash
 Pin | Name      | Function          | Notes
