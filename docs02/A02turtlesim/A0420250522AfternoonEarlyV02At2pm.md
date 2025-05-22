@@ -2,6 +2,8 @@
 
 ## Content
 
+> 🟡 No active nodes yet — we'll launch turtlesim with a custom name.
+
 ### input
 
 ```bash
