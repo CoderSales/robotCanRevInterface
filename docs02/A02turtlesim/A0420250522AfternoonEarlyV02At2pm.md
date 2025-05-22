@@ -55,6 +55,40 @@ ros2 node info /my_turtle
   Action Clients:
 ```
 
+____
+
+```bash
+ros2 run turtlesim turtle_teleop_key
+```
+
+```bash
+ros2 node info /teleop_turtle
+```
+
+```bash
+ros2 node info /teleop_turtle
+/teleop_turtle
+  Subscribers:
+    /parameter_events: rcl_interfaces/msg/ParameterEvent
+  Publishers:
+    /parameter_events: rcl_interfaces/msg/ParameterEvent
+    /rosout: rcl_interfaces/msg/Log
+    /turtle1/cmd_vel: geometry_msgs/msg/Twist
+  Service Servers:
+    /teleop_turtle/describe_parameters: rcl_interfaces/srv/DescribeParameters
+    /teleop_turtle/get_parameter_types: rcl_interfaces/srv/GetParameterTypes
+    /teleop_turtle/get_parameters: rcl_interfaces/srv/GetParameters
+    /teleop_turtle/list_parameters: rcl_interfaces/srv/ListParameters
+    /teleop_turtle/set_parameters: rcl_interfaces/srv/SetParameters
+    /teleop_turtle/set_parameters_atomically: rcl_interfaces/srv/SetParametersAtomically
+  Service Clients:
+
+  Action Servers:
+
+  Action Clients:
+    /turtle1/rotate_absolute: turtlesim/action/RotateAbsolute
+```
+
 ([ChatGPT](https://chatgpt.com/) 2025)
 
 ## References
