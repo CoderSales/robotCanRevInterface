@@ -93,6 +93,11 @@ ros2 node info /teleop_turtle
     /turtle1/rotate_absolute: turtlesim/action/RotateAbsolute
 ```
 
+#### Summary:
+
+> 💡 **/teleop_turtle**: Keyboard controller node (sends velocity commands only)
+
+
 ([ChatGPT](https://chatgpt.com/) 2025)
 
 ## References
