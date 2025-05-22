@@ -44,6 +44,8 @@ ____
 
 ____
 
+#### Run with types
+
 ```bash
 ros2 topic list -t
 /parameter_events [rcl_interfaces/msg/ParameterEvent]
