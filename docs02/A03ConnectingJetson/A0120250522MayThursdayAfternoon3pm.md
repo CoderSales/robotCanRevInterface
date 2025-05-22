@@ -13,3 +13,5 @@ Preparation for connecting Jetson pins
 Figure: Jetson pins
 
 ## References
+
+[JETSON AGX Orin J30 GPIO EXPANSION HEADER PINOUT](https://jetsonhacks.com/nvidia-jetson-agx-orin-gpio-header-pinout/)
