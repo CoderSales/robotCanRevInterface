@@ -63,6 +63,7 @@ ros2 node info /my_turtle
 ____
 
 ```bash
+### Terminal 2:
 ros2 run turtlesim turtle_teleop_key
 ```
 
