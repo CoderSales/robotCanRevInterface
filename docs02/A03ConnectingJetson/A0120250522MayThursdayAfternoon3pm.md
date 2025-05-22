@@ -8,7 +8,7 @@ Preparation for connecting Jetson pins
 
 ## Content
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/19f21e48-dc1e-4803-ad1a-2ffa03b646b9)
 
 Figure: Jetson pins
 
