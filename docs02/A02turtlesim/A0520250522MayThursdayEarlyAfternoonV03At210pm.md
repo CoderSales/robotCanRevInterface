@@ -62,6 +62,7 @@ ____
 
 ____
 
+This command controls turtles in all three windows shown below.
 
 "Listener":
 
