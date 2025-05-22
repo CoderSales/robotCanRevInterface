@@ -11,6 +11,7 @@ ros2 node list
 empty so run next 2 commands:
 
 ```bash
+### Terminal 1:
 ros2 run turtlesim turtlesim_node --ros-args --remap __node:=my_turtle
 ```
 
