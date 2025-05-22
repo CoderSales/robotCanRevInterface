@@ -107,3 +107,5 @@ ros2 node info /teleop_turtle
 ## References
 
 [ChatGPT](https://chatgpt.com/)
+
+[Understanding nodes | ROS 2 Documentation: Humble](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html)
