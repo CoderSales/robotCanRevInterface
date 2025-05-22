@@ -41,6 +41,8 @@ ros2 run turtlesim turtlesim_node
 
 ____
 
+Commands reverse order
+
 ```bash
 ros2 node list
 ros2 action list
@@ -58,6 +60,27 @@ ros2 topic echo /turtle1/pose
 ros2 topic list
 ros2 action list
 ros2 service list
+```
+
+Commands reordered to correct order approximately
+
+```bash
+ros2 action list
+ros2 topic list
+ros2 topic echo /turtle1/pose
+ros2 topic echo /turtle2/pose
+ros2 topic echo /turtle3/pose
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist linear:{ \ x:\ 0.0\ \ y:\ 0.0\ \ z:\ 0.0angular:\ \ x:\ 0.0\ \ y:\ 0.0\ \ z:\ 3.0\}
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist linear: "{linear: {x: 0.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 1.0}}"
+ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 1.0}}"
+ros2 service list
+ros2 topic c list
+ros2 topic list
+ros2 topic echo /turtle1/color_sensor
+ros2 topic echo /turtle3/color_sensor
+ros2 topic node list
+ros2 action list
+ros2 node list
 ```
 
 ```bash
