@@ -131,6 +131,14 @@ document docs02/A02turtlesim/A0220250521MayWednesdayAfternoonLate.md [![image](h
 
 document docs02/A01Week03/A0520250520MayTuesdayV01.md [![image](https://github.com/user-attachments/assets/7ce6e244-a614-4268-b896-8dbe19bfe3d8)](https://github.com/CoderSales/robotCanRevInterface/blob/main/docs02/A01Week03/A0520250520MayTuesdayV01.md)
 
+____
+
+[publish to cmd_vel - Google Search](https://www.google.com/search?q=publish+to+cmd_vel&oq=publish+to+cmd_vel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMgcIBBAAGO8FMgcIBRAAGO8FMgcIBhAAGO8F0gEJNTAxMWowajE1qAIIsAIB8QW4DdOShK_D_A&sourceid=chrome&ie=UTF-8)
+
+[Unable to publish cmd_vel topic from command line](https://get-help.theconstruct.ai/t/unable-to-publish-cmd-vel-topic-from-command-line/14528)
+
+____
+
 ## References
 
 CRIS
