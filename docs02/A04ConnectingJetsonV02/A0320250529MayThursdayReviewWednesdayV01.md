@@ -50,4 +50,7 @@ Google Search: [can tranceiver jetson agx xavier](https://www.google.com/search?
 
 (ChatGPT 2025)
 
+![IMG_20250527_161457 (edited) (edited)](https://github.com/user-attachments/assets/94cdf30d-5244-4a9f-9f14-91cf205c0def)
+
+
 ## References
