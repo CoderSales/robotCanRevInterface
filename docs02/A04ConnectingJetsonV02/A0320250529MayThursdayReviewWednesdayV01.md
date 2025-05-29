@@ -24,5 +24,26 @@ Google Search: [can board waveshare](https://www.google.com/search?q=can+board+w
 
 [JETSON AGX XAVIER J30 GPIO EXPANSION HEADER PINOUT](https://jetsonhacks.com/nvidia-jetson-agx-xavier-gpio-header-pinout/)
 
+### Relevant previous Documents in this Repository
+
+[documentation/A0420250513MayTuesday.md](https://github.com/CoderSales/robotCanRevInterface/blob/main/documentation/A0420250513MayTuesday.md)
+
+[documentation/A0720250515MayThursdayV01.md](https://github.com/CoderSales/robotCanRevInterface/blob/main/documentation/A0720250515MayThursdayV01.md)
+
+### CAN tranceivers on Jetson AGX Xavier GitHub Repository
+
+[nata-vito/CAN-transceivers-on-Jetson-AGX-Xavier](https://github.com/nata-vito/CAN-transceivers-on-Jetson-AGX-Xavier)
+
+### CAN transeiver Googld Search
+
+Google Search: [can tranceiver jetson agx xavier](https://www.google.com/search?q=can+tranceiver+jetson+agx+xavier&oq=can+tranceiver+jetson+agx+xavier&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyBwgDECEYjwIyBwgEECEYjwLSAQg2Mzg4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+### References above GitHub Repository
+
+[CAN Transceivers on Jetson AGX Xavier](https://forums.developer.nvidia.com/t/can-transceivers-on-jetson-agx-xavier/187850)
+
+### Image of Plan to wire up Jetson AGX Xavier and CAN Board
+
+![image](https://github.com/user-attachments/assets/75ae18a6-5f53-4e2c-9937-41b5ea2c0846)
 
 ## References
