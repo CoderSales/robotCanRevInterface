@@ -20,6 +20,9 @@
 
 Google Search: [can board waveshare](https://www.google.com/search?q=can+board+waveshare&oq=can+board+waveshare&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyCggFEAAYgAQYogQyBwgGEAAY7wUyCggHEAAYgAQYogQyBwgIEAAY7wUyBwgJEAAY7wXSAQgyOTA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
+### Jetson AGX XavierDocumentation / Pins
+
+[JETSON AGX XAVIER J30 GPIO EXPANSION HEADER PINOUT](https://jetsonhacks.com/nvidia-jetson-agx-xavier-gpio-header-pinout/)
 
 
 ## References
