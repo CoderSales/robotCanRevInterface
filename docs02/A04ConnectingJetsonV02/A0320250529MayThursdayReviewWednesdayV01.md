@@ -44,19 +44,12 @@ Google Search: [can tranceiver jetson agx xavier](https://www.google.com/search?
 
 ### Image of Plan to wire up Jetson AGX Xavier and CAN Board
 
-![IMG_20250527_161457 (edited) (edited)](https://github.com/user-attachments/assets/94cdf30d-5244-4a9f-9f14-91cf205c0def)
-
 placeholder to incorporate:
 
-
-image | ROS 2 | Topic | Multiple Publisher and Multiple Subscriber | docs02/A01Week03 A05 [Understanding topics](https://docs.ros.org/en/galactic/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html) - Service and Topic <span><a href="A0520250520MayTuesdayV01.md"><img src="https://github.com/user-attachments/assets/9ca85941-38fe-4095-8a93-8a8b96e2c416" alt="Summary screenshot of document folder A05 in docs02/A01Week03 folder in this repository. ROS 2 Topic Multiple Publisher and Multiple Subscriber Image. Topic-MultiplePublisherandMultipleSubscriber" style="width:75%"></a></span>
+image <span><a href="https://github.com/user-attachments/assets/94cdf30d-5244-4a9f-9f14-91cf205c0def"><img src="https://github.com/user-attachments/assets/9ca85941-38fe-4095-8a93-8a8b96e2c416" alt="IMG_20250527_161457 (edited) (edited)" style="width:75%"></a></span>
 
 from:
 
-https://github.com/CoderSales/robotCanRevInterface/edit/main/docs02/A01Week03/A0520250520MayTuesdayV01.md
-
-
-
-
+[docs02/A01Week03/A0520250520MayTuesdayV01.md](https://github.com/CoderSales/robotCanRevInterface/edit/main/docs02/A01Week03/A0520250520MayTuesdayV01.md)
 
 ## References
