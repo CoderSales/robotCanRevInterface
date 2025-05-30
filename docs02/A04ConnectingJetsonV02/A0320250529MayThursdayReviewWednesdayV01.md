@@ -44,8 +44,6 @@ Google Search: [can tranceiver jetson agx xavier](https://www.google.com/search?
 
 ### Image of Plan to wire up Jetson AGX Xavier and CAN Board
 
-placeholder to incorporate:
-
 image <span><a href="https://github.com/user-attachments/assets/94cdf30d-5244-4a9f-9f14-91cf205c0def"><img src="https://github.com/user-attachments/assets/9ca85941-38fe-4095-8a93-8a8b96e2c416" alt="IMG_20250527_161457 (edited) (edited)" style="width:75%"></a></span>
 
 from:
